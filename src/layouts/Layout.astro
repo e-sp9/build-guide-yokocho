@@ -4,10 +4,15 @@ type Props = {
   description?: string;
 };
 
+const SITE_URL = "https://yokocho.build";
+
 const {
   title,
-  description = "国内外の自作キーボードのビルドガイドを横断的に集めるストック型ポータル。",
+  description = "秋葉原の路地裏を歩くように、キーボードのビルドガイドをあれこれ眺める場所。国内外の自作キーボードのビルドガイドを横断的に集めたストック型ポータル。",
 } = Astro.props;
+
+const ogImage = `${SITE_URL}/og.png`;
+const canonicalURL = new URL(Astro.url.pathname, SITE_URL);
 ---
 
 <!doctype html>
@@ -18,6 +23,25 @@ const {
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
     <title>{title}</title>
+
+    <link rel="canonical" href={canonicalURL.href} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- OGP -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content={canonicalURL.href} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:image" content={ogImage} />
+    <meta property="og:site_name" content="ビルドガイド横丁" />
+    <meta property="og:locale" content="ja_JP" />
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content={title} />
+    <meta name="twitter:description" content={description} />
+    <meta name="twitter:image" content={ogImage} />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
