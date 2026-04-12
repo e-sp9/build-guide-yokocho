@@ -141,8 +141,9 @@ const totalGuides = guides.length;
               設計者が他の人のガイドから学び、ビルダーが自分のキットの組み立て手順にすぐ辿り着き、愛好家が新しい一台を発見する。
               そんな、国内の自作キーボード文化の可視化を目指しています。
             </p>
-            <p class="about-note">
-              ※ 現在表示されているのはMVP用のサンプルデータです。掲載許可の取得後、順次正式公開していきます。
+            <p>
+              掲載内容に誤りや変更がある場合は、いつでもお気軽にご連絡ください。
+              自分のキーボードを載せたい方は、<a href="https://github.com/aiirononeko/build-guide-yokocho" target="_blank" rel="noopener noreferrer" class="about-link">GitHub</a>にPRを送るだけで誰でも掲載できます。
             </p>
           </div>
         </div>
@@ -598,14 +599,16 @@ const totalGuides = guides.length;
     max-width: 540px;
   }
 
-  .about-note {
-    margin-top: 16px;
-    padding-top: 18px;
-    border-top: 1px dashed var(--border-strong);
-    font-size: 13px;
-    color: var(--text-mute);
-    font-family: var(--font-display);
-    letter-spacing: 0.02em;
+  .about-link {
+    color: var(--accent);
+    font-weight: 500;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    transition: color 0.15s ease;
+  }
+
+  .about-link:hover {
+    color: var(--accent-hover);
   }
 
   @media (max-width: 760px) {

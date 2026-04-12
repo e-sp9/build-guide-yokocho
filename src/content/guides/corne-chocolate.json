@@ -1,0 +1,11 @@
+{
+  "name": "Corne Chocolate",
+  "designer": "foostan",
+  "description": "3x6カラムスタッガード+3キーの分割キーボード。Kailh Chocロープロファイルスイッチ対応モデル。薄型で持ち運びやすい設計。",
+  "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-chocolate/v4/buildguide_jp.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "shopLinks": [
+    { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/8962?_pos=2&_sid=d50aaa4a5&_ss=r" }
+  ],
+  "addedAt": "2026-04-12"
+}
