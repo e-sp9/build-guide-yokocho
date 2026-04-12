@@ -1,9 +1,17 @@
 ---
+import { getCollection } from "astro:content";
 import Layout from "../layouts/Layout.astro";
 import GuideCard from "../components/GuideCard.astro";
-import { guides } from "../data/guides";
 
 export const prerender = true;
+
+const guideEntries = await getCollection("guides");
+const guides = guideEntries
+  .map((entry) => ({ id: entry.id, ...entry.data }))
+  .sort((a, b) => {
+    const diff = b.addedAt.getTime() - a.addedAt.getTime();
+    return diff !== 0 ? diff : a.id.localeCompare(b.id);
+  });
 
 const allTags = Array.from(new Set(guides.flatMap((g) => g.tags))).sort();
 const totalGuides = guides.length;
@@ -42,9 +50,9 @@ const totalGuides = guides.length;
           <span class="hero-title-jp">ビルドガイド横丁</span>
         </h1>
         <p class="hero-tagline">
-          国内外の自作キーボードのビルドガイドを横断的に集めた、ストック型ポータル。<br
+          秋葉原の路地裏を歩くように、キーボードのビルドガイドをあれこれ眺める場所。<br
           />
-          ビール片手に眺めて、ニヤニヤできる場所。
+          国内外の自作キーボードのビルドガイドを横断的に集めた、ストック型ポータル。
         </p>
         <div class="hero-stats">
           <div class="stat">

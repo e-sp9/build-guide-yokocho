@@ -1,0 +1,11 @@
+{
+  "name": "ErgoArrows",
+  "designer": "Salicylic_acid3",
+  "description": "分割型ロウスタッガードキーボード。矢印キーや独立した数字行など、フルキーボードからの移行を意識した親切な配列が魅力。",
+  "url": "https://github.com/Salicylic-acid3/Salicylic_Keyboard",
+  "tags": ["分割", "ロウスタッガード", "フルサイズ"],
+  "shopLinks": [
+    { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/" }
+  ],
+  "addedAt": "2026-04-08"
+}

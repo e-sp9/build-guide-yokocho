@@ -1,8 +1,10 @@
 ---
-import type { Guide } from "../data/guides";
+import type { CollectionEntry } from "astro:content";
+
+type GuideData = CollectionEntry<"guides">["data"] & { id: string };
 
 type Props = {
-  guide: Guide;
+  guide: GuideData;
   index: number;
 };
 

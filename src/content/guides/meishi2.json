@@ -1,0 +1,11 @@
+{
+  "name": "meishi2",
+  "designer": "Biacco42",
+  "description": "名刺サイズに収まる4キーのマクロパッド。自作キーボード入門の最初の一台として、はんだ付け練習にもよく使われる。",
+  "url": "https://github.com/Biacco42/meishi2",
+  "tags": ["マクロパッド", "入門"],
+  "shopLinks": [
+    { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/" }
+  ],
+  "addedAt": "2026-04-03"
+}
