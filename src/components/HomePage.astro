@@ -45,7 +45,12 @@ const taglineLines = t("hero.tagline").split("\n");
         target="_blank"
         rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a
       >
-      <a href={getLocalePath(alternateLang)} class="lang-toggle" aria-label={`Switch to ${languages[alternateLang]}`}>
+      <a
+        href={getLocalePath(alternateLang)}
+        class="lang-toggle"
+        data-lang-toggle
+        aria-label={`Switch to ${languages[alternateLang]}`}
+      >
         <span class:list={["lang-label", { active: lang === "ja" }]}>JA</span>
         <span class="lang-track">
           <span class:list={["lang-thumb", { "is-en": lang === "en" }]} />
@@ -264,6 +269,36 @@ const taglineLines = t("hero.tagline").split("\n");
       filterCards();
     });
   }
+
+  const toggle = document.querySelector<HTMLAnchorElement>("[data-lang-toggle]");
+  if (toggle) {
+    toggle.addEventListener("click", (e) => {
+      e.preventDefault();
+      if (toggle.classList.contains("is-animating")) return;
+
+      const href = toggle.getAttribute("href");
+      if (!href) return;
+
+      toggle.classList.add("is-animating");
+
+      const thumb = toggle.querySelector<HTMLElement>(".lang-thumb");
+      const labels = toggle.querySelectorAll<HTMLElement>(".lang-label");
+
+      if (thumb) {
+        thumb.classList.toggle("is-en");
+      }
+      labels.forEach((l) => l.classList.toggle("active"));
+
+      const onDone = () => {
+        window.location.href = href;
+      };
+
+      if (thumb) {
+        thumb.addEventListener("transitionend", onDone, { once: true });
+      }
+      setTimeout(onDone, 500);
+    });
+  }
 </script>
 
 <style>
@@ -335,10 +370,15 @@ const taglineLines = t("hero.tagline").split("\n");
   .lang-toggle {
     display: flex;
     align-items: center;
-    gap: 6px;
+    gap: 7px;
     text-transform: none;
     text-decoration: none;
     cursor: pointer;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .lang-toggle:hover {
+    color: inherit;
   }
 
   .lang-label {
@@ -347,7 +387,7 @@ const taglineLines = t("hero.tagline").split("\n");
     font-weight: 600;
     letter-spacing: 0.06em;
     color: var(--text-mute);
-    transition: color 0.2s ease;
+    transition: color 0.35s cubic-bezier(0.4, 0, 0.2, 1);
     user-select: none;
   }
 
@@ -355,40 +395,78 @@ const taglineLines = t("hero.tagline").split("\n");
     color: var(--text);
   }
 
-  .lang-toggle:hover .lang-label.active {
+  /* Hover — only when NOT animating */
+  .lang-toggle:hover:not(.is-animating) .lang-label.active {
     color: var(--accent);
+  }
+
+  .lang-toggle:hover:not(.is-animating) .lang-track {
+    background: var(--border-strong);
+    box-shadow: 0 0 0 1px var(--accent), 0 0 8px rgba(232, 93, 4, 0.12);
+  }
+
+  .lang-toggle:hover:not(.is-animating) .lang-thumb {
+    background: var(--accent);
+    box-shadow: 0 0 6px rgba(232, 93, 4, 0.3);
+  }
+
+  /* Animating state — accent colors throughout transition */
+  .lang-toggle.is-animating .lang-label {
+    color: var(--text-mute);
+  }
+
+  .lang-toggle.is-animating .lang-label.active {
+    color: var(--accent);
+  }
+
+  .lang-toggle.is-animating .lang-track {
+    background: var(--accent-soft);
+    box-shadow: 0 0 0 1px var(--accent), 0 0 10px rgba(232, 93, 4, 0.15);
+  }
+
+  .lang-toggle.is-animating .lang-thumb {
+    background: var(--accent);
+    box-shadow: 0 1px 8px rgba(232, 93, 4, 0.4);
+    width: 16px;
+    border-radius: 6px;
+  }
+
+  .lang-toggle.is-animating .lang-thumb.is-en {
+    transform: translateX(10px);
   }
 
   .lang-track {
     position: relative;
-    width: 32px;
-    height: 18px;
+    width: 34px;
+    height: 20px;
     background: var(--border-strong);
-    border-radius: 9px;
-    transition: background-color 0.2s ease;
-  }
-
-  .lang-toggle:hover .lang-track {
-    background: var(--accent-soft);
+    border-radius: 10px;
+    transition:
+      background-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      box-shadow 0.35s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.06);
   }
 
   .lang-thumb {
     position: absolute;
-    top: 3px;
-    left: 3px;
+    top: 4px;
+    left: 4px;
     width: 12px;
     height: 12px;
     background: var(--text);
     border-radius: 50%;
-    transition: transform 0.2s ease, background-color 0.2s ease;
+    transition:
+      transform 0.4s cubic-bezier(0.4, 0, 0.2, 1),
+      background-color 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      box-shadow 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      width 0.3s cubic-bezier(0.4, 0, 0.2, 1),
+      border-radius 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);
+    will-change: transform;
   }
 
   .lang-thumb.is-en {
     transform: translateX(14px);
-  }
-
-  .lang-toggle:hover .lang-thumb {
-    background: var(--accent);
   }
 
   @media (max-width: 640px) {
@@ -406,16 +484,25 @@ const taglineLines = t("hero.tagline").split("\n");
       font-size: 10px;
     }
     .lang-track {
-      width: 28px;
-      height: 16px;
-      border-radius: 8px;
+      width: 30px;
+      height: 18px;
+      border-radius: 9px;
     }
     .lang-thumb {
-      width: 10px;
-      height: 10px;
+      top: 3px;
+      left: 3px;
+      width: 12px;
+      height: 12px;
     }
     .lang-thumb.is-en {
       transform: translateX(12px);
+    }
+    .lang-toggle.is-animating .lang-thumb {
+      width: 15px;
+      border-radius: 6px;
+    }
+    .lang-toggle.is-animating .lang-thumb.is-en {
+      transform: translateX(9px);
     }
   }
 
