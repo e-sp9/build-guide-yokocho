@@ -7,8 +7,10 @@ const guides = defineCollection({
     name: z.string().min(1),
     designer: z.string().min(1),
     description: z.string().min(1).max(280),
+    descriptionEn: z.string().min(1).max(280).optional(),
     url: z.string().url(),
     tags: z.array(z.string().min(1)).min(1),
+    tagsEn: z.array(z.string().min(1)).min(1).optional(),
     shopLinks: z
       .array(
         z.object({
