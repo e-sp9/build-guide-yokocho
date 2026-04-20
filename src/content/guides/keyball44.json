@@ -1,0 +1,12 @@
+{
+  "name": "Keyball44",
+  "designer": "Yowkees",
+  "description": "44キーの分割カラムスタッガードトラックボールキーボード。親指近くの34mmトラックボールを備え、Keyball39/61系から親指キー位置とMXスイッチ向きを見直したレイアウト。",
+  "url": "https://github.com/Yowkees/keyball/blob/main/keyball44/doc/rev1/buildguide_jp.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "shopLinks": [
+    { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/8337" },
+    { "name": "白銀ラボ", "url": "https://shiroganelab.com/products/keyball44" }
+  ],
+  "addedAt": "2026-04-20"
+}
