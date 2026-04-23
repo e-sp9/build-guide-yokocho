@@ -1,0 +1,8 @@
+{
+  "name": "elephant42",
+  "designer": "illness072",
+  "description": "4つの親指キーと強めの小指列スタッガードを備えた、42キーの分割エルゴノミクスキーボード。非リバーシブルPCBにより実装ミスを減らしつつ、MXホットスワップとRGB LEDに対応する。",
+  "url": "https://github.com/illness072/elephant42/blob/master/docs/build-guide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "addedAt": "2026-04-23"
+}
