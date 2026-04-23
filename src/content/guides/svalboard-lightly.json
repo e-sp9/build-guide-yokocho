@@ -1,0 +1,14 @@
+{
+  "name": "Svalboard Lightly",
+  "designer": "Svalboard",
+  "description": "DataHand系の発想を現代化した左右分割キーボード。指ごとの調整式クラスタに磁気・光学式キーを配置し、3Dプリント部品とポインティングデバイスを組み合わせて組み立てる。",
+  "url": "https://www.svalboard.com/build",
+  "tags": ["分割", "3Dプリント", "磁気式", "フィンガークラスタ", "ポインティングデバイス"],
+  "shopLinks": [
+    {
+      "name": "Svalboard Lightly Self-Print Kit",
+      "url": "https://svalboard.com/products/svalboard-self-print-kit"
+    }
+  ],
+  "addedAt": "2026-04-24"
+}
