@@ -1,0 +1,14 @@
+{
+  "name": "Iris Keyboard",
+  "designer": "Keebio",
+  "description": "数字列付きの分割カラムスタッガードキーボード。Rev.6-8のホットスワップPCB向けガイドでは、MX互換スイッチ、ロータリーエンコーダ、2u親指キー、複数ケース構成の組み立てを案内している。",
+  "url": "https://docs.keeb.io/iris-rev6-build-guide",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "shopLinks": [
+    {
+      "name": "Keebio",
+      "url": "https://keeb.io/collections/iris-split-ergonomic-keyboard"
+    }
+  ],
+  "addedAt": "2026-04-24"
+}
