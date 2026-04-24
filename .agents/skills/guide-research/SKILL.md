@@ -32,7 +32,8 @@ allowed-tools: Bash, Read, Edit, Write, Glob, Grep, Agent
 ### 1b. JSONスキーマの確認
 `src/content.config.ts` または既存JSONからフィールド定義を把握する。必須フィールド:
 - `name`, `designer`, `description`(280文字以内), `url`, `tags`(配列), `addedAt`(YYYY-MM-DD)
-- オプション: `descriptionEn`, `tagsEn`, `shopLinks`(配列 `{name, url}`)
+- 英語ページ用フィールド: `descriptionEn`(280文字以内), `tagsEn`(配列)
+- オプション: `shopLinks`(配列 `{name, url}`)
 
 ## Phase 2: 網羅的調査（並列エージェント3本）
 
@@ -125,6 +126,7 @@ Phase 2 の結果を突合し、**不一致・未確認の情報を検証する*
 - ファイル名: `{キーボード名のkebab-case}.json`（例: `corne-cherry.json`）
 - バージョン違いで複数エントリがある場合: サフィックスで区別（例: `cornelius.json`, `cornelius-low-profile.json`）
 - `description`: 製品の特徴を端的に。280文字以内。バージョン番号は含めない
+- `descriptionEn`: `description` と同じ内容を英語で端的に書く。280文字以内。日本語説明を追加・更新するときは必ず同時に追加・更新する
 - `url`: 日本語ビルドガイドを優先。なければ英語版
 - `tags`: 既存タグとの一貫性を保つ。主要タグ:
   - 形状: `分割`, `一体型`, `マクロパッド`
@@ -132,6 +134,16 @@ Phase 2 の結果を突合し、**不一致・未確認の情報を検証する*
   - 配列: `カラムスタッガード`, `オーソリニア`, `ロウスタッガード`
   - スイッチ: `MX互換`, `Choc互換`
   - 特徴: `ロープロファイル`, `ガスケットマウント`
+- `tagsEn`: `tags` と同じ順序で英語タグを入れる。既存の英語タグ表記に合わせる。主要タグ対応:
+  - `分割` → `split`
+  - `一体型` → `unibody`
+  - `マクロパッド` → `macropad`
+  - `カラムスタッガード` → `column-staggered`
+  - `オーソリニア` → `ortholinear`
+  - `MX互換` → `MX-compatible`
+  - `Choc互換` → `Choc-compatible`
+  - `ロープロファイル` → `low-profile`
+  - `ガスケットマウント` → `gasket mount`
 - `shopLinks`: 現在購入可能なリンクのみ。終売品、在庫切れ、アクセサリ単体、PCB/ケース単体は省略
   - kit と prebuilt が両方購入可能な場合は、組み立て対象である kit を優先する
   - 複数ショップで同一 kit が購入可能な場合は、公式ショップまたは国内ユーザーに有用なショップを優先する
