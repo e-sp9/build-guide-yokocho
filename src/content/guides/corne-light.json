@@ -2,7 +2,10 @@
   "name": "Corne Light v1",
   "designer": "foostan",
   "description": "Corne Lightの初版。部品点数を抑えたシンプルなはんだ付けモデルで、42キー構成の分割カラムスタッガード。ProMicro(コンスルー付き)とOLEDモジュールに対応。",
+  "descriptionEn": "The first Corne Light, a simple soldered 42-key split column-staggered build with a reduced part count. It supports Pro Micro controllers with socket headers and OLED modules.",
   "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-light/v1/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-12"
 }

@@ -2,8 +2,10 @@
   "name": "Corne Chocolate",
   "designer": "foostan",
   "description": "3x6カラムスタッガード+3キーの分割キーボード。Kailh Chocロープロファイルスイッチ対応モデル。薄型で持ち運びやすい設計。",
+  "descriptionEn": "A 3x6 column-staggered split keyboard with three thumb keys, designed for Kailh Choc low-profile switches. Its thin, portable layout keeps the Corne feel in a slimmer form.",
   "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-chocolate/v4/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
   "shopLinks": [
     { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/8962?_pos=2&_sid=d50aaa4a5&_ss=r" }
   ],

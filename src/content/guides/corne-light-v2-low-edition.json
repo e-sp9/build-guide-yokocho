@@ -2,7 +2,10 @@
   "name": "Corne Light v2 Low edition",
   "designer": "foostan",
   "description": "Corne Lightの薄型バリアント。42キー構成の分割カラムスタッガードで、Kailh Choc v1/v2系スイッチに対応。ボトムフォームとOLED保護プレートを備えたロープロファイル設計。",
+  "descriptionEn": "A low-profile Corne Light variant with 42 split column-staggered keys. It supports Kailh Choc v1/v2 switches and includes bottom foam plus an OLED cover plate.",
   "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-light/v2/buildguide_low_edition_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
   "addedAt": "2026-04-13"
 }

@@ -2,8 +2,10 @@
   "name": "小人キー",
   "designer": "五十川十一",
   "description": "16mm狭ピッチ・40キーの分割キーボード。デュアルトラックボール搭載で、ケース単体のテンティング機構とBluetooth接続（ZMK）に対応。19mm球とロープロファイルスイッチを採用したコンパクト設計。",
+  "descriptionEn": "A compact 40-key split keyboard with 16 mm pitch, dual trackballs, case-only tenting, and Bluetooth via ZMK. It uses 19 mm balls and low-profile switches.",
   "url": "https://note.com/11_50iii/n/n75cff4d3502c",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
   "shopLinks": [
     { "name": "BOOTH", "url": "https://iikagen-11.booth.pm/" }
   ],

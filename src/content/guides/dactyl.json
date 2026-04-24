@@ -2,7 +2,10 @@
   "name": "Dactyl",
   "designer": "Matthew Adereth",
   "description": "Matthew Aderethによる、パラメトリック生成に対応した分割コンケーブキーボード。カラムスタッガード配列と3Dプリント筐体、手配線を前提にした代表的な設計。",
+  "descriptionEn": "Matthew Adereth's parametric split concave keyboard design. It is a landmark column-staggered, 3D-printed, handwired keyboard project.",
   "url": "https://github.com/adereth/dactyl-keyboard/blob/master/guide/README.org",
   "tags": ["分割", "カラムスタッガード"],
+  "tagsEn": ["split", "column-staggered"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

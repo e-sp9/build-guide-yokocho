@@ -2,7 +2,10 @@
   "name": "Sofle Choc",
   "designer": "Brian Low",
   "description": "Sofle RGBをベースにした低背の分割キーボード。Kailh Choc v1ホットスワップとPer-key RGBに対応し、薄型構成で組める公式ビルドガイドが公開されている。",
+  "descriptionEn": "A low-profile split keyboard based on Sofle RGB. It supports Kailh Choc v1 hotswap and per-key RGB, with an official guide for a slim build.",
   "url": "https://josefadamcik.github.io/SofleKeyboard/build_guide_choc.html",
   "tags": ["分割", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
   "addedAt": "2026-04-20"
 }

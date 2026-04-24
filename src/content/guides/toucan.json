@@ -2,13 +2,12 @@
   "name": "Toucan",
   "designer": "beekeeb",
   "description": "Piantor系レイアウトに40mmトラックパッドとメモリインピクセル表示を統合した、36/42キーのワイヤレス分割ロープロファイルキーボード。持ち運び前提の薄型ケースとChocホットスワップに対応する。",
+  "descriptionEn": "A 36/42-key wireless split low-profile keyboard based on the Piantor layout, integrating a 40 mm trackpad and memory-in-pixel display. It supports a travel-friendly thin case and Choc hotswap.",
   "url": "https://docs.beekeeb.com/toucan-keyboard/diy-soldering-guide",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
   "shopLinks": [
-    {
-      "name": "BeeKeeb",
-      "url": "https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad"
-    }
+    { "name": "BeeKeeb", "url": "https://shop.beekeeb.com/products/toucan-wireless-piantor-wireless-split-keyboard-with-touchpad" }
   ],
   "addedAt": "2026-04-23"
 }

@@ -2,7 +2,10 @@
   "name": "Cantor",
   "designer": "diepala",
   "description": "42キーの分割ダイオードレスキーボード。Corne系より強めのカラムスタッガードを備え、シンプルで組みやすい設計が特徴。Cantor Classic は Choc スイッチ前提のロープロファイル構成になっている。",
+  "descriptionEn": "A 42-key split diodeless keyboard with stronger column stagger than the Corne family and a simple, approachable build. Cantor Classic is a low-profile Choc-based version.",
   "url": "https://github.com/diepala/cantor/blob/main/doc/build_guide.md",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
   "addedAt": "2026-04-23"
 }

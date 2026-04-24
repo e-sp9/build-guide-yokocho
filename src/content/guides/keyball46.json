@@ -2,8 +2,10 @@
   "name": "Keyball46",
   "designer": "Yowkees",
   "description": "46キーの分割カラムスタッガードトラックボールキーボード。34mmトラックボールを親指側に備え、左右OLEDやアンダーグローにも対応する初代Keyball。",
+  "descriptionEn": "The original 46-key Keyball: a split column-staggered trackball keyboard with a thumb-side 34 mm ball, OLEDs on both halves, and underglow support.",
   "url": "https://github.com/Yowkees/keyball/blob/main/keyball46/doc/rev1/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
   "shopLinks": [],
   "addedAt": "2026-04-22"
 }

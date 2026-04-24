@@ -2,7 +2,10 @@
   "name": "Silakka54",
   "designer": "Squalius-cephalus",
   "description": "54キーのカラムスタッガード分割キーボード。RP2040 Zeroとホットスワップ対応PCBを採用し、REVIUNG41とCorneに着想を得た素直なMX構成で組める。",
+  "descriptionEn": "A 54-key column-staggered split keyboard using an RP2040 Zero and hotswap PCB. Inspired by REVIUNG41 and Corne, it offers a straightforward MX build.",
   "url": "https://github.com/Squalius-cephalus/silakka54/wiki/Build-Guide",
   "tags": ["分割", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-22"
 }

@@ -2,13 +2,12 @@
   "name": "Halcyon Kyria",
   "designer": "Thomas Baart",
   "description": "40%クラスで最大50キーの分割キーボード。強めのカラムスタッガードと大きな親指クラスタを備え、Halcyonシリーズではホットスワップ、USB-C接続、モジュール拡張に対応する。",
+  "descriptionEn": "A 40%-class split keyboard with up to 50 keys, strong column stagger, and a large thumb cluster. The Halcyon version adds hotswap, USB-C, and module expansion.",
   "url": "https://docs.splitkb.com/product-guides/halcyon-series/build-guide/introduction",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible"],
   "shopLinks": [
-    {
-      "name": "splitkb.com",
-      "url": "https://splitkb.com/collections/currently-in-stock/products/halcyon-kyria"
-    }
+    { "name": "splitkb.com", "url": "https://splitkb.com/collections/currently-in-stock/products/halcyon-kyria" }
   ],
   "addedAt": "2026-04-20"
 }

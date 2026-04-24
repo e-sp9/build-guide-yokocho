@@ -2,13 +2,12 @@
   "name": "Aurora Sweep",
   "designer": "David Barr",
   "description": "34キーの分割カラムスタッガードキーボード。Sweep Bling MX をベースに splitkb.com が Aurora シリーズとして再設計し、MX/Choc 両対応、OLED とエンコーダ、無線向け電源スイッチに対応する。",
+  "descriptionEn": "A 34-key split column-staggered keyboard. Based on the Sweep Bling MX and reworked by splitkb.com for the Aurora series, it supports MX/Choc switches, OLEDs, encoders, and wireless power switches.",
   "url": "https://docs.splitkb.com/product-guides/aurora-series/build-guide",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible"],
   "shopLinks": [
-    {
-      "name": "splitkb.com",
-      "url": "https://splitkb.com/products/aurora-sweep"
-    }
+    { "name": "splitkb.com", "url": "https://splitkb.com/products/aurora-sweep" }
   ],
   "addedAt": "2026-04-22"
 }

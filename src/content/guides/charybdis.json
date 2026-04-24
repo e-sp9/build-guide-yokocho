@@ -2,7 +2,10 @@
   "name": "Charybdis",
   "designer": "Quentin Lebastard",
   "description": "4x6+5配列の分割コンケーブキーボード。親指近くのトラックボールと5キーのサムクラスタを備え、キーウェル形状で指の移動量を抑える。",
+  "descriptionEn": "A 4x6+5 split concave keyboard with a thumb-side trackball and five-key thumb cluster. Its keywell shape reduces finger travel while keeping pointing close at hand.",
   "url": "https://docs.bastardkb.com/bg_charybdis/01index.html",
   "tags": ["分割", "カラムスタッガード"],
+  "tagsEn": ["split", "column-staggered"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

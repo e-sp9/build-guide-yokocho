@@ -2,7 +2,10 @@
   "name": "Charybdis Nano",
   "designer": "Quentin Lebastard",
   "description": "3x5+3配列の分割コンケーブトラックボールキーボード。コンパクトで静音性を意識した設計で、左右にUSB-Cと3.5mmジャックを備える。",
+  "descriptionEn": "A compact 3x5+3 split concave trackball keyboard designed with quiet operation in mind, with USB-C and 3.5 mm jacks on both halves.",
   "url": "https://docs.bastardkb.com/bg_cnano/01index.html",
   "tags": ["分割", "カラムスタッガード"],
+  "tagsEn": ["split", "column-staggered"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

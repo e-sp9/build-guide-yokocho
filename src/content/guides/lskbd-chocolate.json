@@ -2,7 +2,10 @@
   "name": "LSKBD Chocolate",
   "designer": "foostan",
   "description": "Let's Split互換の48キー分割オーソリニアキーボード。Kailh Chocスイッチ対応のロープロファイル設計。はんだ付け不要のホットスワップ仕様。",
+  "descriptionEn": "A 48-key Let's Split-compatible ortholinear split keyboard. It is a low-profile Kailh Choc design with hotswap sockets and no soldering required.",
   "url": "https://github.com/foostan/lskbd/blob/main/docs/lskbd-chocolate/buildguide_jp.md",
   "tags": ["分割", "40%", "オーソリニア", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "ortholinear", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
   "addedAt": "2026-04-12"
 }

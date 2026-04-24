@@ -2,7 +2,10 @@
   "name": "Junco",
   "designer": "daneski13",
   "description": "4x6配列をベースに2〜4基のロータリーエンコーダと Per-key RGB を載せられる60%分割キーボード。RP2040採用で、強めのカラムスタッガードとMXホットスワップ対応を両立している。",
+  "descriptionEn": "A 60% split keyboard based on a 4x6 layout, with room for two to four rotary encoders and per-key RGB. It uses RP2040, strong column stagger, and MX hotswap.",
   "url": "https://github.com/daneski13/Junco#build-guide--assembly",
   "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-23"
 }

@@ -2,7 +2,10 @@
   "name": "Scylla",
   "designer": "Quentin Lebastard",
   "description": "4x6+5配列の分割コンケーブキーボード。番号行と5キーのサムクラスタを備え、指の移動量を抑えるキーウェルとカラム配列を採用する。",
+  "descriptionEn": "A 4x6+5 split concave keyboard with a number row and five-key thumb cluster. Its keywell and column layout help reduce finger travel.",
   "url": "https://docs.bastardkb.com/bg_scylla/01index.html",
   "tags": ["分割", "カラムスタッガード"],
+  "tagsEn": ["split", "column-staggered"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

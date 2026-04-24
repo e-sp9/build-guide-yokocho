@@ -2,8 +2,10 @@
   "name": "Keyball61",
   "designer": "Yowkees",
   "description": "61キーの分割カラムスタッガードトラックボールキーボード。親指近くの34mmトラックボールと左右OLEDを備え、一般的な配列から移行しやすいベーシックな構成。",
+  "descriptionEn": "A 61-key split column-staggered trackball keyboard with a thumb-side 34 mm ball and OLEDs on both halves. Its familiar key count makes it easier to move from standard layouts.",
   "url": "https://github.com/Yowkees/keyball/blob/main/keyball61/doc/rev1/buildguide_jp.md",
   "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible"],
   "shopLinks": [
     { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/5358" },
     { "name": "白銀ラボ", "url": "https://shiroganelab.com/products/keyball61" }

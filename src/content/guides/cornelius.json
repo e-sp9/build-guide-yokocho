@@ -2,7 +2,10 @@
   "name": "Cornelius",
   "designer": "foostan",
   "description": "ガスケットマウントのアルミ切削一体型カラムスタッガードキーボード。48キーの40%レイアウトで、タイピング角度は6.5度。キット標準はホットスワップPCBで、はんだ付けPCBも選択可能。",
+  "descriptionEn": "A gasket-mounted one-piece aluminum column-staggered keyboard. This 48-key 40% layout has a 6.5-degree typing angle, with hotswap PCB standard and a solder PCB option.",
   "url": "https://github.com/foostan/corneliuskbd/blob/main/docs/v1/buildguide_ja.md",
   "tags": ["一体型", "40%", "カラムスタッガード", "ガスケットマウント", "MX互換"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "gasket mount", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-12"
 }

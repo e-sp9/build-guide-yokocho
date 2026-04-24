@@ -2,7 +2,10 @@
   "name": "TBK Mini",
   "designer": "Quentin Lebastard",
   "description": "3x6+3配列の小型Dactyl Manuform系分割キーボード。3キーのサムクラスタを備え、公式 docs では Skeletyl のビルドガイドを案内している。",
+  "descriptionEn": "A small 3x6+3 Dactyl Manuform-style split keyboard with a three-key thumb cluster. The official docs point builders to the Skeletyl build guide.",
   "url": "https://docs.bastardkb.com/bg_skeletyl/01index.html",
   "tags": ["分割", "カラムスタッガード"],
+  "tagsEn": ["split", "column-staggered"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

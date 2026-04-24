@@ -2,7 +2,10 @@
   "name": "Petit Split",
   "designer": "foostan",
   "description": "2x2の分割マクロパッド。CherryMX・Choc両対応のPCBソケット設計。自作キーボード設計入門書のサンプル作品としても知られる。",
+  "descriptionEn": "A 2x2 split macropad with PCB sockets for both Cherry MX and Choc switches. It is also known as a sample project from a Japanese DIY keyboard design book.",
   "url": "https://github.com/foostan/petit_split/blob/master/doc/buildguide_jp.md",
   "tags": ["分割", "マクロパッド", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "macropad", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-12"
 }

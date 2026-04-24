@@ -2,13 +2,12 @@
   "name": "DASBOB",
   "designer": "GroooveBob",
   "description": "Sea Picroの追加ピンを活かした、36キーのダイオードレス分割Chocキーボード。ブザー対応のコンパクト設計で、軽量なロープロファイル構成を手早く組める。",
+  "descriptionEn": "A 36-key diodeless split Choc keyboard that uses the extra pins on the Sea Picro. The compact buzzer-ready design makes for a quick, lightweight low-profile build.",
   "url": "https://docs.beekeeb.com/dasbob-keyboard",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
   "shopLinks": [
-    {
-      "name": "BeeKeeb",
-      "url": "https://shop.beekeeb.com/products/dasbob-split-keyboard-pcb-kit"
-    }
+    { "name": "BeeKeeb", "url": "https://shop.beekeeb.com/products/dasbob-split-keyboard-pcb-kit" }
   ],
   "addedAt": "2026-04-23"
 }

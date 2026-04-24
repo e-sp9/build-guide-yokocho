@@ -2,13 +2,12 @@
   "name": "Lily58 Pro",
   "designer": "Naoki Katahira",
   "description": "58キー+数字列の分割カラムスタッガードキーボード。OLEDやロータリーエンコーダに対応し、リバーシブルPCBとコンスルー前提の組み立てやすさで広く親しまれる定番機。",
+  "descriptionEn": "A 58-key split column-staggered keyboard with a number row, OLED support, and rotary encoder support. Its reversible PCB and socket-header-friendly build made it widely loved.",
   "url": "https://kata0510.github.io/Lily58-Document/Lily58_Pro_BG/",
   "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible"],
   "shopLinks": [
-    {
-      "name": "遊舎工房",
-      "url": "https://shop.yushakobo.jp/products/lily58-pro/"
-    }
+    { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/lily58-pro/" }
   ],
   "addedAt": "2026-04-22"
 }

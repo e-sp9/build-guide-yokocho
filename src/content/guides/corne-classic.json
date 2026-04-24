@@ -2,7 +2,10 @@
   "name": "Corne Classic",
   "designer": "foostan",
   "description": "初代Corneキーボード。3x6カラムスタッガード+3キーの分割構成。スルーホールダイオード対応のはんだ付けモデルで、LED・OLED搭載可能。",
+  "descriptionEn": "The original Corne keyboard: a 3x6 column-staggered split layout with three thumb keys. It is a soldered through-hole diode build with optional LEDs and OLEDs.",
   "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-classic/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-12"
 }

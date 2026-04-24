@@ -2,13 +2,12 @@
   "name": "Avalanche",
   "designer": "vitvlkv",
   "description": "数字列を折り取って40%運用にも切り替えられる、64キーの分割カラムスタッガードキーボード。5つの親指キーと追加の小指・人差し指キー、MXホットスワップ、OLEDやロータリーエンコーダに対応する。",
+  "descriptionEn": "A 64-key split column-staggered keyboard whose number row can be snapped off for 40% use. It offers five thumb keys, extra pinky and index keys, MX hotswap, OLEDs, and rotary encoder support.",
   "url": "https://github.com/vlkv/avalanche/blob/master/build_instructions.md",
   "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible"],
   "shopLinks": [
-    {
-      "name": "BeeKeeb",
-      "url": "https://shop.beekeeb.com/products/avalanche-v4-keyboard-kit"
-    }
+    { "name": "BeeKeeb", "url": "https://shop.beekeeb.com/products/avalanche-v4-keyboard-kit" }
   ],
   "addedAt": "2026-04-23"
 }

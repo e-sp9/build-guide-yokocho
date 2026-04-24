@@ -2,8 +2,10 @@
   "name": "Corne Cherry",
   "designer": "foostan",
   "description": "3x6カラムスタッガード+3キーの分割キーボード。Cherry MX互換スイッチ対応モデル。CRKBDの愛称で親しまれ、自作キーボード入門の代表格。",
+  "descriptionEn": "A 3x6 column-staggered split keyboard with three thumb keys, built for Cherry MX-compatible switches. Also known as CRKBD, it is a classic entry point into custom keyboards.",
   "url": "https://github.com/foostan/crkbd/blob/main/docs/corne-cherry/v4/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
   "shopLinks": [
     { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/8961?_pos=1&_sid=d50aaa4a5&_ss=r" }
   ],

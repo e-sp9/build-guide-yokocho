@@ -2,8 +2,10 @@
   "name": "Keyball39",
   "designer": "Yowkees",
   "description": "39キーの分割カラムスタッガードトラックボールキーボード。親指近くの34mmトラックボール、左右OLED、リバーシブル設計を備え、トラックボール無し側はテンキーに近い配列。",
+  "descriptionEn": "A 39-key split column-staggered trackball keyboard with a thumb-side 34 mm ball, OLEDs on both halves, and a reversible design. The non-trackball side is close to a numpad layout.",
   "url": "https://github.com/Yowkees/keyball/blob/main/keyball39/doc/rev1/buildguide_jp.md",
   "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
   "shopLinks": [
     { "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/5357" },
     { "name": "白銀ラボ", "url": "https://shiroganelab.com/products/keyball39" }

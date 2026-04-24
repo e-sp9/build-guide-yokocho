@@ -20,3 +20,13 @@ export function getLocalePath(lang: Locale, path: string = "/"): string {
 export function getAlternateLang(lang: Locale): Locale {
   return lang === "ja" ? "en" : "ja";
 }
+
+export function getAlternateLocalePath(lang: Locale, pathname: string): string {
+  const alternateLang = getAlternateLang(lang);
+
+  if (alternateLang === defaultLocale) {
+    return pathname.replace(new RegExp(`^/${lang}(?=/|$)`), "") || "/";
+  }
+
+  return pathname === "/" ? `/${alternateLang}/` : `/${alternateLang}${pathname}`;
+}

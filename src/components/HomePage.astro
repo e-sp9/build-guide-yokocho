@@ -1,7 +1,12 @@
 ---
 import { getCollection } from "astro:content";
 import type { Locale } from "../i18n/ui";
-import { useTranslations, getLocalePath, getAlternateLang } from "../i18n/utils";
+import {
+  useTranslations,
+  getLocalePath,
+  getAlternateLang,
+  getAlternateLocalePath,
+} from "../i18n/utils";
 import { languages } from "../i18n/ui";
 import GuideCard from "./GuideCard.astro";
 
@@ -13,6 +18,7 @@ type Props = {
 const { lang, highlightId } = Astro.props;
 const t = useTranslations(lang);
 const alternateLang = getAlternateLang(lang);
+const alternatePath = getAlternateLocalePath(lang, Astro.url.pathname);
 
 const guideEntries = await getCollection("guides");
 const guides = guideEntries
@@ -47,7 +53,7 @@ const taglineLines = t("hero.tagline").split("\n");
         rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a
       >
       <a
-        href={getLocalePath(alternateLang)}
+        href={alternatePath}
         class="lang-toggle"
         data-lang-toggle
         aria-label={`Switch to ${languages[alternateLang]}`}

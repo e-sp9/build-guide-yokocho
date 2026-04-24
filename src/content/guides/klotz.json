@@ -2,7 +2,10 @@
   "name": "KLOTZ",
   "designer": "GEIGEIGEIST",
   "description": "34キーのカラムスタッガードChoc分割キーボード。各サイドにロープロファイルエンコーダと3つのステータスLEDを備え、SplitKB Tenting Puck に対応する。",
+  "descriptionEn": "A 34-key column-staggered Choc split keyboard with a low-profile encoder and three status LEDs on each side. It also supports the SplitKB Tenting Puck.",
   "url": "https://github.com/GEIGEIGEIST/KLOTZ/blob/main/docs/buildguide.md",
   "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

@@ -2,13 +2,12 @@
   "name": "Svalboard Lightly",
   "designer": "Svalboard",
   "description": "DataHand系の発想を現代化した左右分割キーボード。指ごとの調整式クラスタに磁気・光学式キーを配置し、3Dプリント部品とポインティングデバイスを組み合わせて組み立てる。",
+  "descriptionEn": "A split keyboard that modernizes DataHand-style ideas. Adjustable finger clusters use magnetic and optical keys, combined with 3D-printed parts and pointing devices.",
   "url": "https://www.svalboard.com/build",
   "tags": ["分割", "3Dプリント", "磁気式", "フィンガークラスタ", "ポインティングデバイス"],
+  "tagsEn": ["split", "3D-printed", "magnetic", "finger clusters", "pointing device"],
   "shopLinks": [
-    {
-      "name": "Svalboard Lightly Self-Print Kit",
-      "url": "https://svalboard.com/products/svalboard-self-print-kit"
-    }
+    { "name": "Svalboard Lightly Self-Print Kit", "url": "https://svalboard.com/products/svalboard-self-print-kit" }
   ],
   "addedAt": "2026-04-24"
 }

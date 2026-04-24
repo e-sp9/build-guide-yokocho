@@ -2,7 +2,10 @@
   "name": "Soyuz",
   "designer": "ai03",
   "description": "ai03設計のシングルPCBテンキーパッドキット。Pro Micro系マイコンとCherry MX互換スイッチで組み立てられ、レイアウトに応じて17〜20個のスイッチを使う。",
+  "descriptionEn": "A single-PCB numpad kit designed by ai03. It builds with a Pro Micro-style controller and Cherry MX-compatible switches, using 17 to 20 switches depending on layout.",
   "url": "https://github.com/ai03-2725/Soyuz/blob/master/BuildGuide-Japanese.md",
   "tags": ["一体型", "マクロパッド", "MX互換"],
+  "tagsEn": ["unibody", "macropad", "MX-compatible"],
+  "shopLinks": [],
   "addedAt": "2026-04-15"
 }

@@ -1,6 +1,6 @@
 ---
 import type { Locale } from "../i18n/ui";
-import { useTranslations, getLocalePath } from "../i18n/utils";
+import { useTranslations, getAlternateLocalePath } from "../i18n/utils";
 
 type Props = {
   title: string;
@@ -32,7 +32,10 @@ const canonicalURL = canonicalProp
   ? new URL(canonicalProp)
   : new URL(Astro.url.pathname, SITE_URL);
 const pageURL = new URL(Astro.url.pathname, SITE_URL);
-const alternateURL = new URL(getLocalePath(alternateLang), SITE_URL);
+const alternateURL = new URL(
+  getAlternateLocalePath(lang, Astro.url.pathname),
+  SITE_URL
+);
 ---
 
 <!doctype html>
