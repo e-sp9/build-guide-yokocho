@@ -41,10 +41,30 @@ const alternateURL = new URL(
 <!doctype html>
 <html lang={lang}>
   <head>
+    <script is:inline>
+      (function () {
+        try {
+          var stored = localStorage.getItem("theme");
+          var prefersDark =
+            window.matchMedia &&
+            window.matchMedia("(prefers-color-scheme: dark)").matches;
+          var theme = stored === "light" || stored === "dark"
+            ? stored
+            : prefersDark
+            ? "dark"
+            : "light";
+          document.documentElement.setAttribute("data-theme", theme);
+        } catch (e) {
+          /* noop */
+        }
+      })();
+    </script>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="description" content={description} />
     <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#f4f1ea" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#17140f" media="(prefers-color-scheme: dark)" />
     <title>{title}</title>
 
     <link rel="canonical" href={canonicalURL.href} />
@@ -97,11 +117,37 @@ const alternateURL = new URL(
     --accent: #e85d04;
     --accent-hover: #c44a02;
     --accent-soft: #fbe2d2;
+    --header-bg: rgba(244, 241, 234, 0.85);
+    --dot-color: rgba(26, 26, 26, 0.06);
+    --shadow-soft: rgba(0, 0, 0, 0.06);
+    --shadow-strong: rgba(0, 0, 0, 0.12);
 
     --font-display: "Pixelify Sans", "DotGothic16", system-ui, sans-serif;
     --font-body: "Inter", "Noto Sans JP", -apple-system, BlinkMacSystemFont,
       "Hiragino Sans", "Yu Gothic", system-ui, sans-serif;
     --font-jp-display: "DotGothic16", "Pixelify Sans", system-ui, sans-serif;
+
+    color-scheme: light;
+  }
+
+  :root[data-theme="dark"] {
+    --bg: #17140f;
+    --bg-soft: #201c15;
+    --bg-elev: #252017;
+    --text: #f4f1ea;
+    --text-soft: #c5beac;
+    --text-mute: #8b8473;
+    --border: #3a342a;
+    --border-strong: #544d41;
+    --accent: #ff7a2e;
+    --accent-hover: #ff9354;
+    --accent-soft: #3a2216;
+    --header-bg: rgba(23, 20, 15, 0.85);
+    --dot-color: rgba(244, 241, 234, 0.05);
+    --shadow-soft: rgba(0, 0, 0, 0.35);
+    --shadow-strong: rgba(0, 0, 0, 0.5);
+
+    color-scheme: dark;
   }
 
   *,
@@ -133,10 +179,11 @@ const alternateURL = new URL(
     line-height: 1.65;
     font-feature-settings: "kern", "liga", "calt";
     background-image:
-      radial-gradient(rgba(26, 26, 26, 0.06) 1px, transparent 1px);
+      radial-gradient(var(--dot-color) 1px, transparent 1px);
     background-size: 22px 22px;
     background-position: 0 0;
     min-height: 100dvh;
+    transition: background-color 0.3s ease, color 0.3s ease;
   }
 
   a {

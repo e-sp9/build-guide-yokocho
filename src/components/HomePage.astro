@@ -52,6 +52,50 @@ const taglineLines = t("hero.tagline").split("\n");
         target="_blank"
         rel="noopener noreferrer">GitHub <span aria-hidden="true">↗</span></a
       >
+      <button
+        type="button"
+        class="theme-toggle"
+        data-theme-toggle
+        aria-label={t("nav.toggleTheme")}
+        title={t("nav.toggleTheme")}
+      >
+        <svg
+          class="theme-icon theme-icon-sun"
+          viewBox="0 0 24 24"
+          width="16"
+          height="16"
+          aria-hidden="true"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <circle cx="12" cy="12" r="4" />
+          <path d="M12 2v2" />
+          <path d="M12 20v2" />
+          <path d="M4.93 4.93l1.41 1.41" />
+          <path d="M17.66 17.66l1.41 1.41" />
+          <path d="M2 12h2" />
+          <path d="M20 12h2" />
+          <path d="M4.93 19.07l1.41-1.41" />
+          <path d="M17.66 6.34l1.41-1.41" />
+        </svg>
+        <svg
+          class="theme-icon theme-icon-moon"
+          viewBox="0 0 24 24"
+          width="16"
+          height="16"
+          aria-hidden="true"
+          fill="none"
+          stroke="currentColor"
+          stroke-width="2"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+        >
+          <path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z" />
+        </svg>
+      </button>
       <a
         href={alternatePath}
         class="lang-toggle"
@@ -364,6 +408,59 @@ const taglineLines = t("hero.tagline").split("\n");
     }, 1600);
   });
 
+  const themeToggle = document.querySelector<HTMLButtonElement>(
+    "[data-theme-toggle]"
+  );
+  if (themeToggle) {
+    const applyTheme = (theme: "light" | "dark") => {
+      document.documentElement.setAttribute("data-theme", theme);
+      themeToggle.setAttribute(
+        "aria-pressed",
+        theme === "dark" ? "true" : "false"
+      );
+    };
+
+    const current =
+      document.documentElement.getAttribute("data-theme") === "dark"
+        ? "dark"
+        : "light";
+    themeToggle.setAttribute(
+      "aria-pressed",
+      current === "dark" ? "true" : "false"
+    );
+
+    themeToggle.addEventListener("click", () => {
+      const next =
+        document.documentElement.getAttribute("data-theme") === "dark"
+          ? "light"
+          : "dark";
+      try {
+        localStorage.setItem("theme", next);
+      } catch {
+        /* noop */
+      }
+      applyTheme(next);
+    });
+
+    const media = window.matchMedia("(prefers-color-scheme: dark)");
+    const onMediaChange = (e: MediaQueryListEvent) => {
+      let stored: string | null = null;
+      try {
+        stored = localStorage.getItem("theme");
+      } catch {
+        /* noop */
+      }
+      if (stored !== "light" && stored !== "dark") {
+        applyTheme(e.matches ? "dark" : "light");
+      }
+    };
+    if (typeof media.addEventListener === "function") {
+      media.addEventListener("change", onMediaChange);
+    } else if (typeof media.addListener === "function") {
+      media.addListener(onMediaChange);
+    }
+  }
+
   const toggle = document.querySelector<HTMLAnchorElement>("[data-lang-toggle]");
   if (toggle) {
     toggle.addEventListener("click", (e) => {
@@ -411,7 +508,7 @@ const taglineLines = t("hero.tagline").split("\n");
   /* Header */
   .site-header {
     border-bottom: 1px solid var(--border);
-    background: rgba(244, 241, 234, 0.85);
+    background: var(--header-bg);
     backdrop-filter: blur(10px);
     -webkit-backdrop-filter: blur(10px);
     position: sticky;
@@ -459,6 +556,64 @@ const taglineLines = t("hero.tagline").split("\n");
 
   .nav a:hover {
     color: var(--accent);
+  }
+
+  .theme-toggle {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 32px;
+    height: 32px;
+    padding: 0;
+    border: 1px solid var(--border-strong);
+    border-radius: 0;
+    background: transparent;
+    color: var(--text-soft);
+    cursor: pointer;
+    transition:
+      color 0.2s ease,
+      border-color 0.2s ease,
+      background-color 0.2s ease;
+    -webkit-tap-highlight-color: transparent;
+    flex-shrink: 0;
+  }
+
+  .theme-toggle:hover {
+    color: var(--accent);
+    border-color: var(--accent);
+  }
+
+  .theme-toggle:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  .theme-icon {
+    position: absolute;
+    transition:
+      transform 0.35s cubic-bezier(0.4, 0, 0.2, 1),
+      opacity 0.2s ease;
+  }
+
+  :root:not([data-theme="dark"]) .theme-icon-sun {
+    opacity: 0;
+    transform: rotate(-90deg) scale(0.6);
+  }
+
+  :root:not([data-theme="dark"]) .theme-icon-moon {
+    opacity: 1;
+    transform: rotate(0) scale(1);
+  }
+
+  :root[data-theme="dark"] .theme-icon-sun {
+    opacity: 1;
+    transform: rotate(0) scale(1);
+  }
+
+  :root[data-theme="dark"] .theme-icon-moon {
+    opacity: 0;
+    transform: rotate(90deg) scale(0.6);
   }
 
   .lang-toggle {
@@ -565,7 +720,7 @@ const taglineLines = t("hero.tagline").split("\n");
 
   @media (max-width: 640px) {
     .nav {
-      gap: 18px;
+      gap: 14px;
       font-size: 13px;
     }
     .header-inner {
@@ -573,6 +728,10 @@ const taglineLines = t("hero.tagline").split("\n");
     }
     .logo-text {
       display: none;
+    }
+    .theme-toggle {
+      width: 28px;
+      height: 28px;
     }
     .lang-label {
       font-size: 10px;

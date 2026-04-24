@@ -27,6 +27,9 @@ export const ui = {
     // Nav
     "nav.guides": "Guides",
     "nav.about": "About",
+    "nav.toggleTheme": "テーマを切り替え",
+    "nav.toDark": "ダークモードに切り替え",
+    "nav.toLight": "ライトモードに切り替え",
 
     // Filters
     "filter.sectionTitle": "/ Guides",
@@ -81,6 +84,9 @@ export const ui = {
     // Nav
     "nav.guides": "Guides",
     "nav.about": "About",
+    "nav.toggleTheme": "Toggle theme",
+    "nav.toDark": "Switch to dark mode",
+    "nav.toLight": "Switch to light mode",
 
     // Filters
     "filter.sectionTitle": "/ Guides",
