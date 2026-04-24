@@ -1,0 +1,14 @@
+{
+  "name": "Avalanche",
+  "designer": "vitvlkv",
+  "description": "数字列を折り取って40%運用にも切り替えられる、64キーの分割カラムスタッガードキーボード。5つの親指キーと追加の小指・人差し指キー、MXホットスワップ、OLEDやロータリーエンコーダに対応する。",
+  "url": "https://github.com/vlkv/avalanche/blob/master/build_instructions.md",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換"],
+  "shopLinks": [
+    {
+      "name": "BeeKeeb",
+      "url": "https://shop.beekeeb.com/products/avalanche-v4-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-04-23"
+}
