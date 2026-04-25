@@ -1,0 +1,11 @@
+{
+  "name": "BFO-9000",
+  "designer": "Keebio",
+  "description": "最大6行×9列まで使える大型の分割オーソリニアキーボード。ビルドガイドでは、ダイオード、TRRS、Pro Micro互換コントローラ、MX/Alps/Choc対応プレート構成の組み立てを案内している。",
+  "descriptionEn": "A large split ortholinear keyboard configurable up to 6 rows by 9 columns. The guide covers diodes, TRRS, Pro Micro-compatible controllers, and MX/Alps/Choc-compatible plate builds.",
+  "url": "https://docs.keeb.io/bfo-9000-build-guide",
+  "tags": ["分割", "オーソリニア", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "ortholinear", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-04-25"
+}

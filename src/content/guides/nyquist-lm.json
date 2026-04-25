@@ -1,0 +1,16 @@
+{
+  "name": "Nyquist LM",
+  "designer": "Keebio",
+  "description": "4行または5行を選べるロープロファイル分割オーソリニアキーボード。ホットスワップPCB、アルミトレイケース、Choc V1/V2対応スイッチ、左右判別とケース組み立てを案内している。",
+  "descriptionEn": "A low-profile split ortholinear keyboard configurable with 4 or 5 rows. The guide covers hotswap PCBs, aluminum tray cases, Choc V1/V2 switches, half identification, and case assembly.",
+  "url": "https://docs.keeb.io/nyquist-lm-build-guide",
+  "tags": ["分割", "60%", "オーソリニア", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "60%", "ortholinear", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keebio",
+      "url": "https://keeb.io/products/nyquist-lm-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-04-25"
+}

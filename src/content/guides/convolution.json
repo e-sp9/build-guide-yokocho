@@ -1,0 +1,11 @@
+{
+  "name": "Convolution",
+  "designer": "Keebio",
+  "description": "左側2×5マクロ列を備えた65XTロウスタッガードキーボード。アクリルケースの分解と再組み立て、PCBテスト、スタビライザー、ロータリーエンコーダ、MX互換スイッチのはんだ付けを案内している。",
+  "descriptionEn": "A 65XT row-staggered keyboard with a 2x5 left macro column. The guide covers acrylic case prep, PCB testing, stabilizers, rotary encoders, and MX-compatible switch soldering.",
+  "url": "https://docs.keeb.io/convolution-build-guide",
+  "tags": ["65%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["65%", "row-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-04-25"
+}
