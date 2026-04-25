@@ -1,0 +1,11 @@
+{
+  "name": "Cepstrum",
+  "designer": "Keebio",
+  "description": "Choc V1向けの65%/65XT分割ロウスタッガードキーボード。Rev.1のホットスワップPCB、Chocスタビライザー、アルミプレート、左右分割ケースの組み立て手順をまとめている。",
+  "descriptionEn": "A Choc V1 65%/65XT split row-staggered keyboard. The Rev. 1 guide covers hotswap PCBs, Choc stabilizers, aluminum plates, and split case assembly.",
+  "url": "https://docs.keeb.io/cepstrum-build-guide",
+  "tags": ["分割", "65%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "65%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-04-25"
+}
