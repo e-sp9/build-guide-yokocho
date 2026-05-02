@@ -1,0 +1,10 @@
+{
+  "name": "Redox",
+  "designer": "Mattia Dal Ben",
+  "description": "70キーの分割カラムスタッガードエルゴノミクスキーボード。Cherry MX互換スイッチ、Pro Micro、TRRS、3Dプリント/竹ケース、RGBやMill-Maxホットスワップ改造まで公式READMEに組み立て手順がまとまる。",
+  "descriptionEn": "A 70-key split column-staggered ergonomic keyboard. The official README documents Cherry MX-compatible switches, Pro Micro controllers, TRRS wiring, 3D-printed or bamboo cases, RGB, and Mill-Max hotswap mods.",
+  "url": "https://github.com/mattdibi/redox-keyboard/tree/master/redox",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "スルーホール"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "through-hole"],
+  "addedAt": "2026-05-03"
+}

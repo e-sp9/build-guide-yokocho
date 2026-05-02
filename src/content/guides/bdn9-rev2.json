@@ -1,0 +1,13 @@
+{
+  "name": "BDN9 Rev. 2",
+  "designer": "Keebio",
+  "description": "3x3の9キーマクロパッド。最大3つのEC11/EC12ロータリーエンコーダ、MX/Alps/Chocスイッチ、FR4/アクリルケースに対応し、エンコーダ先付けからケース組立まで手順が短くまとまる。",
+  "descriptionEn": "A 3x3 nine-key macropad that supports up to three EC11/EC12 rotary encoders, MX, Alps, or Choc switches, and FR4 or acrylic cases. The guide keeps encoder-first assembly and case assembly concise.",
+  "url": "https://docs.keeb.io/bdn9-rev2-build-guide",
+  "tags": ["マクロパッド", "オーソリニア", "MX互換", "Choc互換", "ロータリーエンコーダ"],
+  "tagsEn": ["macropad", "ortholinear", "MX-compatible", "Choc-compatible", "rotary encoder"],
+  "shopLinks": [
+    { "name": "Keebio", "url": "https://keeb.io/products/bdn9-rev-2-3x3-9-key-macropad-rotary-encoder-and-rgb" }
+  ],
+  "addedAt": "2026-05-03"
+}

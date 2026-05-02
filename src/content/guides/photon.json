@@ -1,0 +1,10 @@
+{
+  "name": "Photon",
+  "designer": "ai03",
+  "description": "ZMKベースの無線ホットスワップPCBを搭載した一体型カスタムキーボード。射出成形PCケース、ガスケット、バッテリー、オプションのノブモジュールまで組み込む軽量ポータブル機。",
+  "descriptionEn": "A unibody custom keyboard with a ZMK-based wireless hotswap PCB. The build covers the injection-molded polycarbonate case, gaskets, battery, and optional knob module for a lightweight portable board.",
+  "url": "https://docs.cannonkeys.com/photon-build-guide/",
+  "tags": ["一体型", "ロウスタッガード", "MX互換", "無線", "ガスケットマウント"],
+  "tagsEn": ["unibody", "row-staggered", "MX-compatible", "wireless", "gasket mount"],
+  "addedAt": "2026-05-03"
+}
