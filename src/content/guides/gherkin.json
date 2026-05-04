@@ -1,0 +1,13 @@
+{
+  "name": "Gherkin",
+  "designer": "40percent.club",
+  "description": "30キーだけの超小型オーソリニアキーボード。ダイオード、コントローラヘッダ、MXスイッチ、プレート/底板をはんだ付けとネジ止めで組み、KMK/CircuitPython構成まで確認できる。",
+  "descriptionEn": "An ultra-compact 30-key ortholinear keyboard. The guide covers soldering diodes, controller headers, and MX switches, assembling the plates with standoffs, and configuring it with KMK and CircuitPython.",
+  "url": "https://learn.adafruit.com/pb-gherkhin-30-keyboard-with-kmk-circuitpython-kb2040/assembly",
+  "tags": ["一体型", "30%", "オーソリニア", "スルーホール", "MX互換"],
+  "tagsEn": ["unibody", "30%", "ortholinear", "through-hole", "MX-compatible"],
+  "shopLinks": [
+    { "name": "Mechboards", "url": "https://mechboards.co.uk/products/gherkin-kit" }
+  ],
+  "addedAt": "2026-05-05"
+}
