@@ -1,0 +1,13 @@
+{
+  "name": "Bakeneko",
+  "designer": "kkatano / CannonKeys",
+  "description": "Bakeneko60/65/GO系を対象にした一体型O-ringガスケットマウントキーボード。アルミケース、ホットスワップPCB、ドーターボード接続、O-ringの組み込みまで公式手順で確認できる。",
+  "descriptionEn": "A unibody O-ring gasket-mount keyboard family covering the Bakeneko60, Bakeneko65, and BakenekoGO. The official guide covers the aluminum case, hotswap PCB, daughterboard, and O-ring assembly.",
+  "url": "https://docs.cannonkeys.com/bakeneko/",
+  "tags": ["一体型", "60%", "65%", "ロウスタッガード", "MX互換", "ガスケットマウント"],
+  "tagsEn": ["unibody", "60%", "65%", "row-staggered", "MX-compatible", "gasket mount"],
+  "shopLinks": [
+    { "name": "CannonKeys", "url": "https://cannonkeys.com/products/bakeneko-60" }
+  ],
+  "addedAt": "2026-05-03"
+}

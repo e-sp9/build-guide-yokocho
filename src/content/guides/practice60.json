@@ -1,0 +1,10 @@
+{
+  "name": "Practice60",
+  "designer": "CannonKeys",
+  "description": "STM32 Blue Pillボードを載せる60% ANSIキット。ダイオード、USBポート、Blue Pillヘッダ/改造、任意のバックライト部品、スタビとスイッチまでスルーホール中心に組む練習向け一体型。",
+  "descriptionEn": "A 60% ANSI kit built around an STM32 Blue Pill board. The shared Bluepill guide covers diodes, USB, Blue Pill headers and mods, optional backlighting parts, stabilizers, and switches for a soldering-focused unibody build.",
+  "url": "https://docs.cannonkeys.com/bluepill-build/",
+  "tags": ["一体型", "60%", "ロウスタッガード", "スルーホール", "MX互換"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "through-hole", "MX-compatible"],
+  "addedAt": "2026-05-03"
+}
