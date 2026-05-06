@@ -1,0 +1,13 @@
+{
+  "name": "Claw44",
+  "designer": "yfuku / Daily Craft Keyboard",
+  "description": "44キーの分割カラムスタッガードキーボード。親指4キーと内傾したキー配置で自然な手の位置を狙い、v3ではMXホットスワップ、Type-C Pro Micro、拡張プレートに対応する。",
+  "descriptionEn": "A 44-key split column-staggered keyboard with four thumb keys and inward-angled key positions for a natural hand posture. v3 adds MX hotswap, Type-C Pro Micros, and expansion plates.",
+  "url": "https://docs.dailycraft.jp/buildguides/claw44v3/buildguide.html",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible"],
+  "shopLinks": [
+    { "name": "Daily Craft Keyboard", "url": "https://shop.dailycraft.jp/products/claw44" }
+  ],
+  "addedAt": "2026-05-07"
+}

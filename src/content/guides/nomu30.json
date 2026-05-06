@@ -1,0 +1,11 @@
+{
+  "name": "Nomu30",
+  "designer": "recompile keys",
+  "description": "ISO Enterが目を引く31キーの30%一体型キーボード。アクリルプレートサンドイッチ構成で、ダイオード、Pro Micro、スタビライザー、MXスイッチを順に実装するミニマルなビルドガイドが用意されている。",
+  "descriptionEn": "A 31-key 30% unibody keyboard with a distinctive ISO Enter key. The acrylic sandwich build guide walks through diodes, the Pro Micro, stabilizer, MX switches, and bottom plate assembly.",
+  "url": "https://keys.recompile.net/docs/nomu30-build-guide/",
+  "tags": ["一体型", "30%", "MX互換", "スルーホール"],
+  "tagsEn": ["unibody", "30%", "MX-compatible", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-07"
+}

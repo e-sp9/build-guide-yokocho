@@ -1,0 +1,13 @@
+{
+  "name": "Chidori",
+  "designer": "kagizaraya",
+  "description": "Let's Splitと同じ48キー構成の分割オーソリニアキーボード。全スルーホール部品でPro Microを使わず、拡張キットを加えるとテンキー/マクロパッド付きの3分割構成にもできる。",
+  "descriptionEn": "A 48-key split ortholinear keyboard in the same family as Let's Split. It uses all through-hole parts without a Pro Micro, and the expansion kit can turn it into a three-part build with a numpad/macropad.",
+  "url": "https://github.com/kagizaraya/chidori_build_guide/blob/master/README.md",
+  "tags": ["分割", "40%", "オーソリニア", "MX互換", "スルーホール"],
+  "tagsEn": ["split", "40%", "ortholinear", "MX-compatible", "through-hole"],
+  "shopLinks": [
+    { "name": "kagizaraya", "url": "https://kagizaraya.jp/products/chidori" }
+  ],
+  "addedAt": "2026-05-07"
+}

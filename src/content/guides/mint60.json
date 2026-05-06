@@ -1,0 +1,11 @@
+{
+  "name": "Mint60",
+  "designer": "eucalyn",
+  "description": "一般的なロウスタッガード配列に近い60%分割キーボード。左右分離で姿勢を楽にしつつ、通常キーキャップセットを活かせる配列と広めのはんだ付け間隔で、初めての自作でも組みやすい。",
+  "descriptionEn": "A 60% split keyboard close to a familiar row-staggered layout. It keeps typing approachable with standard keycap sets and generous soldering spacing while letting the halves sit at a more natural angle.",
+  "url": "https://lilakey.com/blogs/docs/how-to-build-mint60-01",
+  "tags": ["分割", "60%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["split", "60%", "row-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-07"
+}

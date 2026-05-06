@@ -1,0 +1,13 @@
+{
+  "name": "Brutal V2 1800",
+  "designer": "ai03 / CannonKeys",
+  "description": "テンキーを残した1800レイアウトのアルミ一体型キーボード。単面ガスケットとトップマウントを組み合わせ、内部ウェイト、ドーターボード、フォーム、ホットスワップ/はんだPCBの組み立て手順が揃う。",
+  "descriptionEn": "An aluminum unibody keyboard in an 1800 layout that keeps the numpad. It combines a single-sided gasket system with top mount, with guide coverage for weights, daughterboard, foam, and hotswap or solder PCBs.",
+  "url": "https://docs.cannonkeys.com/brutal-v2-build-guide/",
+  "tags": ["一体型", "1800", "ロウスタッガード", "MX互換", "ガスケットマウント"],
+  "tagsEn": ["unibody", "1800", "row-staggered", "MX-compatible", "gasket mount"],
+  "shopLinks": [
+    { "name": "CannonKeys", "url": "https://cannonkeys.com/products/brutal-v2-1800-keyboard" }
+  ],
+  "addedAt": "2026-05-05"
+}

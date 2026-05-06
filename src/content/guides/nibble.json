@@ -1,0 +1,13 @@
+{
+  "name": "NIBBLE",
+  "designer": "nullbits",
+  "description": "65%配列に左側マクロ列、ロータリーエンコーダ、大型RGB LED、OLEDヘッダを備えたスルーホールキット。Pro Micro互換MCUを使い、ダイオードやICソケットを中心に組む。",
+  "descriptionEn": "A through-hole 65% kit with a left macro column, rotary encoder, giant RGB LED, and OLED header. It uses a Pro Micro-compatible MCU and focuses the build around diodes, IC sockets, and other forgiving through-hole parts.",
+  "url": "https://github.com/nullbitsco/docs/blob/main/nibble/build_guide_en.md",
+  "tags": ["一体型", "65%", "ロウスタッガード", "スルーホール", "MX互換", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "through-hole", "MX-compatible", "rotary encoder", "OLED"],
+  "shopLinks": [
+    { "name": "Eureka Leap", "url": "https://shop.eurekaleap.com/nibble-customizable-65-mechanical-keyboard-kit/" }
+  ],
+  "addedAt": "2026-05-05"
+}

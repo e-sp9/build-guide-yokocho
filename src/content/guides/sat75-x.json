@@ -1,0 +1,10 @@
+{
+  "name": "Sat75 X",
+  "designer": "CannonKeys",
+  "description": "ノブとホットスワップOLEDを備えた75%一体型キーボード。ポリカーボネートケース、ガスケットマウント、ホットスワップ/はんだPCB、RTC用電池、VIA/QMKでの設定まで公式手順がまとまる。",
+  "descriptionEn": "A 75% unibody keyboard with a knob and hotswap OLED. The official guide covers the polycarbonate case, gasket mount, hotswap or solder PCB, RTC battery, and VIA/QMK setup.",
+  "url": "https://docs.cannonkeys.com/sat75-x/",
+  "tags": ["一体型", "75%", "ロウスタッガード", "MX互換", "ガスケットマウント", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "75%", "row-staggered", "MX-compatible", "gasket mount", "rotary encoder", "OLED"],
+  "addedAt": "2026-05-05"
+}

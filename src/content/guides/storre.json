@@ -1,0 +1,10 @@
+{
+  "name": "Större",
+  "designer": "STHLM kb",
+  "description": "最大87キー構成を取れる大型オーソリニアキーボード。Pro Micro互換コントローラ、ダイオード、IC、スタビ、OLED、2基のロータリーエンコーダ、RGBストリップを組み込める。",
+  "descriptionEn": "A large ortholinear keyboard with support for up to 87 keys. The build can include a Pro Micro-compatible controller, diodes, ICs, stabilizers, OLED, two rotary encoders, and an RGB strip.",
+  "url": "https://sthlmkb.com/2023/10/storre-build-guide/",
+  "tags": ["一体型", "80%", "オーソリニア", "スルーホール", "MX互換", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "80%", "ortholinear", "through-hole", "MX-compatible", "rotary encoder", "OLED"],
+  "addedAt": "2026-05-05"
+}
