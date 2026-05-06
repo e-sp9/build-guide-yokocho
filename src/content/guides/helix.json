@@ -1,0 +1,11 @@
+{
+  "name": "Helix",
+  "designer": "Makoto Kurauchi",
+  "description": "4行/5行を選べる最大64キーの分割オーソリニアキーボード。PCBを切り離して行数を変えられ、MX互換またはKailh Choc系ロープロファイルスイッチ、OLED、Underglow/バックライトを選べる。",
+  "descriptionEn": "A split ortholinear keyboard with up to 64 keys and selectable four- or five-row builds. The PCB can be cut down, and the guide covers MX or Kailh Choc low-profile switches, OLEDs, underglow, and backlighting.",
+  "url": "https://github.com/MakotoKurauchi/helix/blob/master/Doc/buildguide_jp.md",
+  "tags": ["分割", "60%", "オーソリニア", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "60%", "ortholinear", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-07"
+}
