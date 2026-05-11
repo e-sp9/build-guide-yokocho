@@ -1,0 +1,11 @@
+{
+  "name": "Waterfowl",
+  "designer": "CyanDuck",
+  "description": "36キーの分割キーボード。MX/Choc対応のホットスワップソケット、OLED、ロータリーエンコーダとローラーエンコーダ、有線/無線構成に対応する。",
+  "descriptionEn": "A 36-key split keyboard supporting MX or Choc hotswap sockets, OLEDs, rotary and roller encoders, and both wired and wireless build options.",
+  "url": "https://jakewickham.co.uk/blog/waterfowl-build-guide/",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-11"
+}

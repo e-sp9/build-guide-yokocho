@@ -1,0 +1,11 @@
+{
+  "name": "Killer Whale",
+  "designer": "Taro Hayashi",
+  "description": "30度チルトした3D構造と、トラックボール・D-pad・ジョイスティックを選べる交換式サムクラスタを備えた48〜56キー分割キーボード。",
+  "descriptionEn": "A 48-56 key split keyboard with a 30-degree tilted 3D structure and swappable thumb clusters for trackball, D-pad, or joystick modules.",
+  "url": "https://github.com/Taro-Hayashi/KillerWhale/blob/main/README_EN.md",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "トラックボール"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "trackball"],
+  "shopLinks": [],
+  "addedAt": "2026-05-11"
+}

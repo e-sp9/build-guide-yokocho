@@ -1,0 +1,11 @@
+{
+  "name": "Tartan",
+  "designer": "Takuya Urakawa / Dm9Records",
+  "description": "ATmega328PとV-USBを採用し、電子部品をすべてスルーホールで実装する60%一体型キーボード。ANSI/ISO系の標準的な配列をDIYしやすくまとめている。",
+  "descriptionEn": "A 60% unibody keyboard using an ATmega328P with V-USB and all-through-hole components, packaging an ANSI/ISO-style layout for approachable DIY assembly.",
+  "url": "https://github.com/hsgw/tartan/tree/master/doc/jp",
+  "tags": ["一体型", "60%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-11"
+}
