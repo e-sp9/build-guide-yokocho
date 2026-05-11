@@ -1,0 +1,11 @@
+{
+  "name": "Le Oeuf (PG1425)",
+  "designer": "EggsWorks",
+  "description": "Kailh PG1425 XスイッチとXIAO RP2040を使う、36キーの超薄型一体型スプリット風キーボード。表面実装部品と直付けスイッチで薄さを重視している。",
+  "descriptionEn": "A 36-key ultra-low-profile unibody split-style keyboard using Kailh PG1425 X switches and a XIAO RP2040, emphasizing a thin direct-soldered build.",
+  "url": "https://docs.eggs.works/docs/build-guides/le-oeuf-pg1425/",
+  "tags": ["一体型", "40%", "カラムスタッガード", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-05-11"
+}

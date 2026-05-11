@@ -1,0 +1,11 @@
+{
+  "name": "Unicorne",
+  "designer": "Yang Hu",
+  "description": "CorneやKyriaに着想を得た42〜44キー一体型キーボード。STM32 MCUを基板上に直接載せ、OLED、ブザー、最大2個のロータリーエンコーダに対応する。",
+  "descriptionEn": "A 42-44 key unibody keyboard inspired by Corne and Kyria, with an onboard STM32 MCU plus support for an OLED, buzzer, and up to two rotary encoders.",
+  "url": "https://github.com/yanghu/unicorne/wiki/Build-guide",
+  "tags": ["一体型", "40%", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-11"
+}
