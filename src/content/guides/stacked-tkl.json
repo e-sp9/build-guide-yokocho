@@ -1,0 +1,11 @@
+{
+  "name": "StackedTKL",
+  "designer": "CannonKeys",
+  "description": "DevastatingTKL PCBを使う積層アクリルケースのTKLキット。FR4プレート、7層のアクリルケース、脚部レイヤーを組み上げ、RGBアンダーグローにも対応する。",
+  "descriptionEn": "A TKL kit with a stacked acrylic case built around the DevastatingTKL PCB, combining an FR4 plate, seven acrylic case layers, feet layers, and support for RGB underglow.",
+  "url": "https://docs.cannonkeys.com/stacked/stacked_build/",
+  "tags": ["一体型", "80%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["unibody", "80%", "row-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-15"
+}

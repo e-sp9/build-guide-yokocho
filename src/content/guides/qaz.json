@@ -1,0 +1,11 @@
+{
+  "name": "QAZ",
+  "designer": "Coffee Break Keyboards",
+  "description": "約35%サイズのコンパクトなロウスタッガードキーボード。Pro Microとダイオードを実装し、限られたキー数に標準的なキーキャップを詰め込む独特の小型レイアウトが特徴。",
+  "descriptionEn": "A compact roughly 35% row-staggered keyboard using a Pro Micro and diodes, known for its distinctive small layout that packs familiar keycap sizes into very few keys.",
+  "url": "https://docs.cbkbd.com/build-guides/qaz.html",
+  "tags": ["一体型", "30%", "ロウスタッガード", "MX互換", "スルーホール"],
+  "tagsEn": ["unibody", "30%", "row-staggered", "MX-compatible", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-15"
+}

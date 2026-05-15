@@ -1,0 +1,11 @@
+{
+  "name": "Ortho60",
+  "designer": "CannonKeys",
+  "description": "Blue Pillマイコンを使う12x5の60%オーソリニアキーボード。ダイオード、USBポート、Blue Pillヘッダ、任意のバックライト部品まで順に実装するスルーホール中心のキット。",
+  "descriptionEn": "A 12x5 60% ortholinear keyboard built around a Blue Pill microcontroller, with a mostly through-hole kit process covering diodes, USB port, Blue Pill headers, and optional backlighting parts.",
+  "url": "https://docs.cannonkeys.com/bluepill-build/",
+  "tags": ["一体型", "60%", "オーソリニア", "MX互換", "スルーホール"],
+  "tagsEn": ["unibody", "60%", "ortholinear", "MX-compatible", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-15"
+}

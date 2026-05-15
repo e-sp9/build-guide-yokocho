@@ -1,0 +1,11 @@
+{
+  "name": "Chiri CE",
+  "designer": "Keebio",
+  "description": "Corneに近い3行構成の分割ロープロファイルキーボード。Choc V1ホットスワップ、RP2040、CNCアルミケース、3x6/3x5レイアウトに対応するコンパクトなIris CE派生モデル。",
+  "descriptionEn": "A Corne-like three-row low-profile split keyboard derived from the Iris CE, with Choc V1 hotswap, RP2040, a CNC aluminum case, and 3x6 or 3x5 layout options.",
+  "url": "https://docs.keeb.io/chiri-ce-build-guide",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-05-15"
+}
