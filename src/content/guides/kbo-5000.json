@@ -1,0 +1,11 @@
+{
+  "name": "KBO-5000",
+  "designer": "Keebio",
+  "description": "左右分割のロウスタッガードTKL系キーボード。MX互換スイッチ、TRRS接続、任意のロータリーエンコーダやLEDに対応し、標準配列に近いまま左右を離して使える。",
+  "descriptionEn": "A split row-staggered TKL-style keyboard with MX-compatible switches, TRRS interconnect, and optional rotary encoder or LEDs, keeping a familiar layout while separating the halves.",
+  "url": "https://docs.keeb.io/quefrency-rev2-sinc-build-guide",
+  "tags": ["分割", "80%", "ロウスタッガード", "MX互換", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "80%", "row-staggered", "MX-compatible", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-05-15"
+}
