@@ -1,0 +1,16 @@
+{
+  "name": "Lulu",
+  "designer": "Boardsource",
+  "description": "Lily58系の6x4x4分割レイアウトをアルミトップケース、OLEDカバー、テント脚、ロータリーエンコーダ対応で組むキーボード。組み立て中心で扱いやすい。",
+  "descriptionEn": "A Lily58-style 6x4x4 split keyboard built around an aluminum top case, OLED covers, tenting legs, and optional rotary encoders, with an assembly-focused build process.",
+  "url": "https://boardsource.xyz/blogs/build-guides/lulu-build-guide",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "OLED", "ロータリーエンコーダ", "アルミケース"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "OLED", "rotary encoder", "aluminum case"],
+  "shopLinks": [
+    {
+      "name": "Boardsource Lulu PCB",
+      "url": "https://new.boardsource.xyz/products/lulu-pcb"
+    }
+  ],
+  "addedAt": "2026-05-16"
+}

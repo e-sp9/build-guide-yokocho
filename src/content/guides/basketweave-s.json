@@ -1,0 +1,16 @@
+{
+  "name": "Basketweave-S",
+  "designer": "null-ll / piit79",
+  "description": "Alice風の65%エルゴレイアウトに矢印キーとロータリーエンコーダを組み合わせたスルーホールキット。USB-C端子やATmega32Aまわりまで段階的に実装する。",
+  "descriptionEn": "A through-hole kit with an Alice-like 65% ergonomic layout, arrow keys, and rotary encoder support. The guide walks through the USB-C port, ATmega32A, diodes, switches, and case hardware.",
+  "url": "https://github.com/piit79/basketweave-s/blob/master/doc/build.md",
+  "tags": ["一体型", "65%", "Alice", "ロウスタッガード", "MX互換", "スルーホール", "ロータリーエンコーダ"],
+  "tagsEn": ["unibody", "65%", "Alice", "row-staggered", "MX-compatible", "through-hole", "rotary encoder"],
+  "shopLinks": [
+    {
+      "name": "42. Keebs",
+      "url": "https://42keebs.eu/shop/kits/with-discrete-mcu/basketweave-s-ergo-65-kit/"
+    }
+  ],
+  "addedAt": "2026-05-16"
+}

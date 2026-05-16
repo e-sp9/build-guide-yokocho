@@ -1,0 +1,16 @@
+{
+  "name": "REVIUNG34",
+  "designer": "gtips",
+  "description": "34キーまたは33キーで組める一体型カラムスタッガードキーボード。中央に寄せた親指キー、RGB LED、アクリルディフューザーを備えた小型エルゴ構成が特徴。",
+  "descriptionEn": "A 34- or 33-key unibody column-staggered keyboard with a centered thumb cluster, RGB LEDs, and an acrylic diffuser, offering a compact ergonomic layout in a single-piece build.",
+  "url": "https://reviung.com/build-guide/724/",
+  "tags": ["一体型", "30%", "カラムスタッガード", "MX互換", "RGB LED"],
+  "tagsEn": ["unibody", "30%", "column-staggered", "MX-compatible", "RGB LED"],
+  "shopLinks": [
+    {
+      "name": "Little Keyboards",
+      "url": "https://www.littlekeyboards.com/products/reviung34-analyst-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-05-16"
+}

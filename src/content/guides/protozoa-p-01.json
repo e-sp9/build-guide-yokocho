@@ -1,0 +1,11 @@
+{
+  "name": "Protozoa P.01",
+  "designer": "Protozoa Studio / coseyfannitutti",
+  "description": "Mysterium系PCBを使ったTKLキーボード。スルーホール部品の実装、USB-C端子、スタビライザー、ケース組み込みまでを通して作る大型DIY構成。",
+  "descriptionEn": "A TKL keyboard based on the Mysterium-style PCB. The guide covers a full large-format DIY build, including through-hole electronics, USB-C, stabilizers, and case assembly.",
+  "url": "https://protozoa.studio/pages/protozoa-p-01-build-guide",
+  "tags": ["一体型", "TKL", "ロウスタッガード", "MX互換", "スルーホール", "USB-C"],
+  "tagsEn": ["unibody", "TKL", "row-staggered", "MX-compatible", "through-hole", "USB-C"],
+  "shopLinks": [],
+  "addedAt": "2026-05-16"
+}
