@@ -1,0 +1,16 @@
+{
+  "name": "Sweep",
+  "designer": "David Philip Barr",
+  "description": "Ferris系の34キー分割キーボード。ダイオードを使わないシンプルなPCBにホットスワップソケット、TRRS、Pro Micro系MCUを実装するミニマルな構成。",
+  "descriptionEn": "A Ferris-family 34-key split keyboard with a minimal diode-free PCB. The guide covers hotswap sockets, TRRS jacks, reset switches, and Pro Micro-style controllers.",
+  "url": "https://boardsource.xyz/blogs/build-guides/sweep-build-guide",
+  "tags": ["分割", "30%", "カラムスタッガード", "MX互換", "ホットスワップ"],
+  "tagsEn": ["split", "30%", "column-staggered", "MX-compatible", "hotswap"],
+  "shopLinks": [
+    {
+      "name": "Boardsource Crab Broom",
+      "url": "https://boardsource.xyz/products/crab-broom-choc-ferris-sweep"
+    }
+  ],
+  "addedAt": "2026-05-16"
+}
