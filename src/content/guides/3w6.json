@@ -1,0 +1,11 @@
+{
+  "name": "3W6",
+  "designer": "weteor",
+  "description": "36キーの低背分割オーソリニアキーボード。3x5+3のミニマルなChoc構成で、オンボードMCU、USB-C左右接続、任意のPimoroniトラックボールやテンティングパックに対応する。",
+  "descriptionEn": "A 36-key low-profile split ortholinear keyboard in a minimal 3x5+3 Choc layout. It uses onboard controllers, USB-C interconnect, and optional Pimoroni trackball or tenting puck support.",
+  "url": "https://github.com/weteor/3W6/blob/main/prod/build_instruction_rev2.md",
+  "tags": ["分割", "30%", "オーソリニア", "Choc互換", "ロープロファイル", "USB-C"],
+  "tagsEn": ["split", "30%", "ortholinear", "Choc-compatible", "low-profile", "USB-C"],
+  "shopLinks": [],
+  "addedAt": "2026-05-20"
+}

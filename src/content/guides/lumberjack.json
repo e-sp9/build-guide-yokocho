@@ -1,0 +1,11 @@
+{
+  "name": "Lumberjack",
+  "designer": "peej",
+  "description": "標準60%ケースに収まる5x12オーソリニアPCB。スルーホール部品中心で組める一体型キーボードで、見える電子部品の雰囲気とFR4プレート/ケース流用を両立する。",
+  "descriptionEn": "A 5x12 ortholinear PCB designed to fit standard 60% cases. This unibody keyboard uses mostly through-hole parts, combining visible electronics with FR4 plate options and common case compatibility.",
+  "url": "https://github.com/peej/lumberjack-keyboard/blob/master/guide.md",
+  "tags": ["一体型", "60%", "オーソリニア", "MX互換", "スルーホール"],
+  "tagsEn": ["unibody", "60%", "ortholinear", "MX-compatible", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-20"
+}

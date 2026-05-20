@@ -1,0 +1,11 @@
+{
+  "name": "Cerberus",
+  "designer": "CannonKeys",
+  "description": "65%クラスの一体型カスタムキーボード。プレートガスケットとフォースブレイク、内部ウェイト、USB/RGBドーターボードを備え、有線QMK/VIA版と無線ZMK Studio版の手順がまとまる。",
+  "descriptionEn": "A 65%-class unibody custom keyboard with plate gaskets, force-break pads, internal weight, and USB/RGB daughterboards. The guide covers both wired QMK/VIA and wireless ZMK Studio versions.",
+  "url": "https://docs.cannonkeys.com/cerberus-build-guide/",
+  "tags": ["一体型", "65%", "ロウスタッガード", "MX互換", "ガスケットマウント", "無線"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "MX-compatible", "gasket mount", "wireless"],
+  "shopLinks": [],
+  "addedAt": "2026-05-20"
+}
