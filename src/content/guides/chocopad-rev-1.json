@@ -1,0 +1,11 @@
+{
+  "name": "Chocopad Rev. 1",
+  "designer": "Keebio",
+  "description": "4x4配列の16キーマクロパッド。Kailh Chocロープロファイルスイッチ向けで、ダイオード、Pro Micro、任意のインスイッチLEDやLED制御部品まで小さく試せる構成。",
+  "descriptionEn": "A 4x4 16-key macropad for Kailh Choc low-profile switches. The build covers diodes, a Pro Micro, and optional in-switch LEDs with their control components in a compact project.",
+  "url": "https://docs.keeb.io/chocopad-build-guide",
+  "tags": ["マクロパッド", "オーソリニア", "Choc互換", "ロープロファイル", "スルーホール"],
+  "tagsEn": ["macropad", "ortholinear", "Choc-compatible", "low-profile", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-20"
+}

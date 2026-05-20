@@ -1,0 +1,11 @@
+{
+  "name": "Breeze Rev. 1.3",
+  "designer": "Afternoon Labs",
+  "description": "70キーの分割ロウスタッガードキーボード。Keebio版Rev.1.3はUSB-C左右接続、ケース付きキット、MXホットスワップに対応し、コントローラ実装からケース組み立てまで案内されている。",
+  "descriptionEn": "A 70-key split row-staggered keyboard. The Keebio Rev. 1.3 kit uses USB-C interconnect, an included case, and MX hotswap sockets, with guide coverage from controller soldering to case assembly.",
+  "url": "https://docs.keeb.io/breeze-build-guide",
+  "tags": ["分割", "65%", "ロウスタッガード", "MX互換", "ホットスワップ", "USB-C"],
+  "tagsEn": ["split", "65%", "row-staggered", "MX-compatible", "hotswap", "USB-C"],
+  "shopLinks": [],
+  "addedAt": "2026-05-20"
+}
