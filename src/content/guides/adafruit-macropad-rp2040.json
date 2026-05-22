@@ -1,0 +1,13 @@
+{
+  "name": "Adafruit MacroPad RP2040",
+  "designer": "Adafruit",
+  "description": "RP2040を搭載した3x4マクロパッド。MX互換ホットスワップソケット、NeoPixel、128x64 OLED、ロータリーエンコーダ、スピーカー、STEMMA QTを備え、CircuitPythonやArduinoで活用できる。",
+  "descriptionEn": "A 3x4 RP2040 macropad with MX-compatible hotswap sockets, NeoPixels, a 128x64 OLED, rotary encoder, speaker, and STEMMA QT. It is designed for CircuitPython or Arduino workflows.",
+  "url": "https://learn.adafruit.com/adafruit-macropad-rp2040/macropad-assembly",
+  "tags": ["マクロパッド", "オーソリニア", "MX互換", "ホットスワップ", "RP2040", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["macropad", "ortholinear", "MX-compatible", "hotswap", "RP2040", "rotary encoder", "OLED"],
+  "shopLinks": [
+    { "name": "Adafruit", "url": "https://www.adafruit.com/product/5100" }
+  ],
+  "addedAt": "2026-05-23"
+}

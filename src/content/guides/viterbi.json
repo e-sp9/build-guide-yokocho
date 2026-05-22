@@ -1,0 +1,11 @@
+{
+  "name": "Viterbi",
+  "designer": "Keebio",
+  "description": "左右それぞれ5x7の70%分割オーソリニアキーボード。Rev.2はLevinson Rev.3系の組み立て手順を参照し、ダイオード、TRRS、Pro Micro互換コントローラ、MX/Alps対応スイッチで構成する。",
+  "descriptionEn": "A 70% split ortholinear keyboard with 5x7 keys per half. Rev. 2 follows the Levinson Rev. 3-style build flow with diodes, TRRS, Pro Micro-compatible controllers, and MX or Alps switches.",
+  "url": "https://docs.keeb.io/viterbi-rev2-build-guide",
+  "tags": ["分割", "70%", "オーソリニア", "MX互換", "Alps互換"],
+  "tagsEn": ["split", "70%", "ortholinear", "MX-compatible", "Alps-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-05-23"
+}
