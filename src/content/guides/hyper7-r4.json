@@ -1,0 +1,13 @@
+{
+  "name": "Hyper7 R4",
+  "designer": "Mechboards",
+  "description": "179〜213キーに対応する173%クラスの大型一体型キーボード。ステンレス製ケース、上下2枚のホットスワップPCB、ハンドル、フォーム、膨大なスタビライザーとスイッチを組み込む規格外のビルド。",
+  "descriptionEn": "A 173%-class oversized unibody keyboard supporting 179 to 213 keys. The build covers the stainless case, dual hotswap PCBs, handle, foam, and a huge number of stabilizers and switches.",
+  "url": "https://guides-mechboards.gitbook.io/guides/kits/list-of-kits/hyper7-r4-build-guide-enclosed-case",
+  "tags": ["一体型", "173%", "ロウスタッガード", "MX互換", "ホットスワップ"],
+  "tagsEn": ["unibody", "173%", "row-staggered", "MX-compatible", "hotswap"],
+  "shopLinks": [
+    { "name": "Mechboards", "url": "https://mechboards.co.uk/products/hyper-7-v4" }
+  ],
+  "addedAt": "2026-05-25"
+}

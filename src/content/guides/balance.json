@@ -1,0 +1,11 @@
+{
+  "name": "Balance",
+  "designer": "Upas / CannonKeys",
+  "description": "ノブ付きFRL-1800レイアウトのアルミ一体型キーボード。Poronガスケット、はんだPCB、ユニファイドドーターボード、特徴的なアクセントピースを組み合わせる大型ワークボード。",
+  "descriptionEn": "An aluminum unibody FRL-1800 keyboard with a knob. The build combines Poron gaskets, a solder PCB, unified daughterboard, and distinctive accent pieces for a large work-focused board.",
+  "url": "https://docs.cannonkeys.com/balance/build_guide/",
+  "tags": ["一体型", "1800", "ロウスタッガード", "MX互換", "ガスケットマウント", "ロータリーエンコーダ"],
+  "tagsEn": ["unibody", "1800", "row-staggered", "MX-compatible", "gasket mount", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}

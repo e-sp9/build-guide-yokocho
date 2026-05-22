@@ -1,0 +1,13 @@
+{
+  "name": "Mercutio",
+  "designer": "MechWild",
+  "description": "OLEDとロータリーエンコーダを備えた40%ロウスタッガードのスルーホールキット。ATmega328P、USB-C端子、ダイオード、ICソケットなどを段階的に実装し、コンパクトな40%配列を手頃に試せる。",
+  "descriptionEn": "A 40% row-staggered through-hole kit with an OLED and rotary encoder. The build steps through the ATmega328P, USB-C port, diodes, IC socket, and other parts for an approachable compact 40% board.",
+  "url": "https://mechwild.com/guides/build-guides/mercutio-build-guide/",
+  "tags": ["一体型", "40%", "ロウスタッガード", "スルーホール", "MX互換", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "through-hole", "MX-compatible", "rotary encoder", "OLED"],
+  "shopLinks": [
+    { "name": "MechWild", "url": "https://mechwild.com/product/mercutio/" }
+  ],
+  "addedAt": "2026-05-25"
+}
