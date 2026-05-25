@@ -1,0 +1,11 @@
+{
+  "name": "Tako",
+  "designer": "ssbb",
+  "description": "34キーの静電容量無接点スイッチ対応分割キーボード。RP2040系コントローラでの有線構成に加え、nice!nanoによる無線構成も想定し、Topre/NIZ系パーツ、ドーム、スプリング、トッププレートの組み立てを確認できる。",
+  "descriptionEn": "A 34-key split keyboard for electrostatic capacitive switches. It supports RP2040-based wired builds and nice!nano wireless builds, with guide coverage for Topre/NIZ-style parts, domes, springs, and top plates.",
+  "url": "https://github.com/ssbb/tako/blob/main/docs/buildguide.md",
+  "tags": ["分割", "30%", "カラムスタッガード", "無線", "ロープロファイル"],
+  "tagsEn": ["split", "30%", "column-staggered", "wireless", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}

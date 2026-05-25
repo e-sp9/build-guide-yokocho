@@ -1,0 +1,11 @@
+{
+  "name": "Trackswitch Manuform",
+  "designer": "rish987",
+  "description": "Dactyl Manuform系の3Dプリント分割キーボードに、押し込みでマウスレイヤーへ入るクリック可能なトラックボール機構を組み込んだモデル。筐体出力、配線、センサー、ファームウェアまで扱う。",
+  "descriptionEn": "A 3D-printed Dactyl Manuform-style split keyboard with a clickable trackball mechanism that enters the mouse layer when pressed. The guide covers printing, wiring, the sensor, and firmware.",
+  "url": "https://github.com/rish987/trackswitch-manuform#build-guide",
+  "tags": ["分割", "3Dプリント", "カラムスタッガード", "MX互換", "トラックボール", "ポインティングデバイス"],
+  "tagsEn": ["split", "3D-printed", "column-staggered", "MX-compatible", "trackball", "pointing device"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}

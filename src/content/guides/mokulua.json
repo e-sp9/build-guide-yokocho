@@ -1,0 +1,11 @@
+{
+  "name": "Mokulua",
+  "designer": "MechWild",
+  "description": "左右分割のAlice風ロウスタッガードキーボード。矩形ハーフの形状でテンティングしやすく、Pro Micro、USBポート、OLED、ロータリーエンコーダ、アクリルパーツを含む両半分の組み立て手順が揃う。",
+  "descriptionEn": "A split Alice-like row-staggered keyboard with rectangular halves suited for tenting. The guide covers both halves, including Pro Micros, USB ports, OLEDs, rotary encoders, and acrylic parts.",
+  "url": "https://mechwild.com/guides/build-guides/mokulua-build-guide/",
+  "tags": ["分割", "Alice配列", "ロウスタッガード", "MX互換", "OLED", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "Alice layout", "row-staggered", "MX-compatible", "OLED", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}

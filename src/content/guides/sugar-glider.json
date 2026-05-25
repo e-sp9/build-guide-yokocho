@@ -1,0 +1,11 @@
+{
+  "name": "Sugar Glider",
+  "designer": "MechWild",
+  "description": "カラムスタッガード、親指クラスタ、タッチパッド、OLED、ロータリーエンコーダを詰め込んだ分割キーボード。BlackPill、GPIOエキスパンダ、Nuggetとタッチパッド周りまで順を追って組み立てられる。",
+  "descriptionEn": "A split column-staggered keyboard with thumb clusters, a touchpad, OLED, and rotary encoders. The guide walks through the BlackPill, GPIO expander, Nugget, touchpad mounting, and case assembly.",
+  "url": "https://mechwild.com/guides/build-guides/sugar-glider-build-guide/",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "ポインティングデバイス", "OLED", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "pointing device", "OLED", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}
