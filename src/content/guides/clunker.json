@@ -1,0 +1,11 @@
+{
+  "name": "Clunker",
+  "designer": "MechWild",
+  "description": "40%に半分の数字段、ロータリーエンコーダ、ソレノイドを載せた一体型キーボード。Pro Microの書き込みから、トランジスタ、フライバックダイオード、ソレノイド、アクリルケースまで順番に組み立てられる。",
+  "descriptionEn": "A unibody 40% keyboard with a half number row, rotary encoder, and solenoid. The guide covers the Pro Micro, transistor, flyback diode, solenoid, switches, and acrylic case assembly.",
+  "url": "https://mechwild.com/guides/build-guides/clunker-build-guide/",
+  "tags": ["一体型", "40%", "ロウスタッガード", "MX互換", "ロータリーエンコーダ", "ソレノイド"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "MX-compatible", "rotary encoder", "solenoid"],
+  "shopLinks": [],
+  "addedAt": "2026-05-25"
+}
