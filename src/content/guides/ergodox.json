@@ -1,0 +1,11 @@
+{
+  "name": "ErgoDox",
+  "designer": "Dominic Beauchamp",
+  "description": "親指クラスタを備えた大型の分割カラムスタッガードキーボード。ダイオード、I/Oエキスパンダ、TRRS、コントローラを実装する古典的なDIYエルゴ構成。",
+  "descriptionEn": "A large split column-staggered keyboard with thumb clusters. The classic DIY ergonomic build covers diodes, I/O expanders, TRRS wiring, and controller assembly.",
+  "url": "https://www.ergodox.io/",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "スルーホール"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "through-hole"],
+  "shopLinks": [],
+  "addedAt": "2026-05-27"
+}

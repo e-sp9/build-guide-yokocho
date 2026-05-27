@@ -1,0 +1,11 @@
+{
+  "name": "ScottoFly",
+  "designer": "Joe Scotto",
+  "description": "左右分割風の一体型レイアウトを3Dプリントケースと手配線で作る36キーキーボード。MX互換スイッチ、ダイオード、マイコンを直接配線する。",
+  "descriptionEn": "A 36-key keyboard with a split-inspired unibody layout, built with a 3D-printed case and handwiring. It directly wires MX-compatible switches, diodes, and a controller.",
+  "url": "https://scottokeebs.com/blogs/keyboards/scottofly-handwired-keyboard",
+  "tags": ["一体型", "40%", "カラムスタッガード", "MX互換", "3Dプリント", "手配線"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "MX-compatible", "3D-printed", "handwired"],
+  "shopLinks": [],
+  "addedAt": "2026-05-27"
+}

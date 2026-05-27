@@ -1,0 +1,11 @@
+{
+  "name": "Daedalus",
+  "designer": "Perseus333",
+  "description": "Chocスイッチを使う36キーの無線分割キーボード。Cirqueトラックパッド、ロータリーエンコーダ、3Dプリントケース、バッテリーを組み合わせる低背構成。",
+  "descriptionEn": "A 36-key wireless split keyboard built around Choc switches. The guide combines a Cirque trackpad, rotary encoder, 3D-printed case, and batteries in a low-profile build.",
+  "url": "https://github.com/Perseus333/daedalus-keyboard/blob/main/docs/build-guide.md",
+  "tags": ["分割", "30%", "カラムスタッガード", "Choc互換", "ロープロファイル", "無線", "ポインティングデバイス", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "30%", "column-staggered", "Choc-compatible", "low-profile", "wireless", "pointing device", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-05-27"
+}
