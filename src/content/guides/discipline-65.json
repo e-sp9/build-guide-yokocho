@@ -1,0 +1,13 @@
+{
+  "name": "Discipline 65",
+  "designer": "coseyfannitutti",
+  "description": "65%ロウスタッガードのスルーホールキーボード。ダイオード、抵抗、USB-C、ATmega32Aまわりの部品を実装して、電子工作感の強い一体型を組み立てる。",
+  "descriptionEn": "A 65% row-staggered through-hole keyboard. The build covers diodes, resistors, USB-C, ATmega32A-related parts, and the assembly of a hands-on unibody kit.",
+  "url": "https://guides-mechboards.gitbook.io/guides/mbuk-build-guides/list-of-other-build-guides/the-discipline-v1-build-guide",
+  "tags": ["一体型", "65%", "ロウスタッガード", "MX互換", "スルーホール", "USB-C"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "MX-compatible", "through-hole", "USB-C"],
+  "shopLinks": [
+    { "name": "Mechboards", "url": "https://mechboards.co.uk/products/discipline-kit-v1" }
+  ],
+  "addedAt": "2026-05-27"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Dilly",
+  "designer": "Keebio",
+  "description": "30キーの低背オーソリニアキーボード。Chocスイッチとホットスワップソケットを使い、Pro Micro互換コントローラで小さく組める一体型キット。",
+  "descriptionEn": "A 30-key low-profile ortholinear keyboard. It uses Choc switches and hotswap sockets with a Pro Micro-compatible controller for a compact unibody kit.",
+  "url": "https://docs.keeb.io/dilly-build-guide/",
+  "tags": ["一体型", "30%", "オーソリニア", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "30%", "ortholinear", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    { "name": "Keebio", "url": "https://keeb.io/products/dilly" }
+  ],
+  "addedAt": "2026-05-27"
+}
