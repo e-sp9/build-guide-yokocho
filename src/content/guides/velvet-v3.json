@@ -1,0 +1,10 @@
+{
+  "name": "Velvet v3",
+  "designer": "ergohaven",
+  "description": "46キーの立体分割キーボード。FDM印刷向けの曲面ケースとホットスワップPCBを組み合わせ、公式ガイドはPCB版の組み立てからキーチェックまで案内する。",
+  "descriptionEn": "A 46-key sculpted split keyboard built around a curved FDM-friendly case and a hotswap PCB. The official guide covers the PCB build through final key testing.",
+  "url": "https://github.com/ergohaven/velvet/blob/main/build_guide/build_guide_en.md",
+  "tags": ["分割", "40%", "3Dプリント", "MX互換", "ホットスワップ", "USB-C"],
+  "tagsEn": ["split", "40%", "3D-printed", "MX-compatible", "hotswap", "USB-C"],
+  "addedAt": "2026-06-13"
+}
