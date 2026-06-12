@@ -1,0 +1,10 @@
+{
+  "name": "Nine",
+  "designer": "bsag",
+  "description": "18キーの超小型無線分割キーボード。nice!nano v2と任意のnice!view表示に対応し、公式ガイドがPCB実装からケース組み立て、ZMKファーム取得まで案内する。",
+  "descriptionEn": "An ultra-compact 18-key wireless split keyboard built around nice!nano v2 controllers with optional nice!view displays. The official guide covers PCB assembly, case assembly, and getting the ZMK firmware.",
+  "url": "https://github.com/bsag/nine-nano/blob/main/docs/build_guide.md",
+  "tags": ["分割", "30%", "カラムスタッガード", "無線", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "30%", "column-staggered", "wireless", "MX-compatible", "Choc-compatible"],
+  "addedAt": "2026-06-13"
+}
