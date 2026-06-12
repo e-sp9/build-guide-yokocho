@@ -1,0 +1,10 @@
+{
+  "name": "Torn",
+  "designer": "rtitmuss",
+  "description": "Corne系の配列をスルーホール部品で組む分割キーボード。ATmega328PとV-USB構成を採り、公式ビルドガイドが部品実装からケース別の仕上げまで追える。",
+  "descriptionEn": "A split keyboard in the Corne family built from through-hole parts. It uses an ATmega328P with V-USB, and the official build guide covers the assembly from component soldering through the different case options.",
+  "url": "https://github.com/rtitmuss/torn/blob/master/doc/build.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "スルーホール", "MX互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "through-hole", "MX-compatible"],
+  "addedAt": "2026-06-13"
+}
