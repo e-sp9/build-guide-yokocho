@@ -1,0 +1,11 @@
+{
+  "name": "Pinkies Out v2",
+  "designer": "Sadek Baroudi",
+  "description": "Cirqueトラックパッドやトラックボール、ロータリーエンコーダに対応した66キーの一体型キーボード。MX/Choc両対応のホットスワップPCBで、RGB LEDやハプティクスも選べる。",
+  "descriptionEn": "A 66-key unibody keyboard with support for a Cirque trackpad or trackball and rotary encoders. The v2 build pairs an MX/Choc hotswap PCB with optional RGB and haptic feedback.",
+  "url": "https://github.com/sadekbaroudi/fingerpunch/blob/master/keyboards/pinkies-out/v2/BUILDGUIDE.md",
+  "tags": ["一体型", "65%", "カラムスタッガード", "MX互換", "Choc互換", "ポインティングデバイス", "ロータリーエンコーダ", "ホットスワップ"],
+  "tagsEn": ["unibody", "65%", "column-staggered", "MX-compatible", "Choc-compatible", "pointing device", "rotary encoder", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-14"
+}

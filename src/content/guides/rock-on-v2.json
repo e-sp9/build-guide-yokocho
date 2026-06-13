@@ -1,0 +1,16 @@
+{
+  "name": "Rock On v2",
+  "designer": "Sadek Baroudi",
+  "description": "CirqueトラックパッドやPimoroniトラックボール、OLED、ロータリーエンコーダに対応した66キーの一体型キーボード。MX/Choc両対応のホットスワップPCB。",
+  "descriptionEn": "A 66-key unibody keyboard with support for a Cirque trackpad or Pimoroni trackball, OLED, and rotary encoders. The v2 guide covers an MX/Choc hotswap PCB build.",
+  "url": "https://github.com/sadekbaroudi/fingerpunch/blob/master/keyboards/rock-on/v2/BUILDGUIDE.md",
+  "tags": ["一体型", "65%", "カラムスタッガード", "MX互換", "Choc互換", "ポインティングデバイス", "OLED", "ロータリーエンコーダ", "ホットスワップ"],
+  "tagsEn": ["unibody", "65%", "column-staggered", "MX-compatible", "Choc-compatible", "pointing device", "OLED", "rotary encoder", "hotswap"],
+  "shopLinks": [
+    {
+      "name": "fingerpunch",
+      "url": "https://fingerpunch.xyz/product/rock-on-v2/"
+    }
+  ],
+  "addedAt": "2026-06-14"
+}
