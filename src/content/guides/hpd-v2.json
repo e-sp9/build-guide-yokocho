@@ -1,0 +1,10 @@
+{
+  "name": "HPD v2",
+  "designer": "ergohaven",
+  "description": "60キー級のモジュラー3D分割キーボード。曲面ケースとホットスワップPCBを組み合わせ、公式ガイドはPCB版の組み立てと動作確認まで追える。",
+  "descriptionEn": "A modular 60%-class 3D split keyboard that pairs a curved case with a hotswap PCB. The official guide walks through the PCB build and the final keyboard checks.",
+  "url": "https://github.com/ergohaven/hpd/blob/main/build_guide/build_guide_en.md",
+  "tags": ["分割", "60%", "3Dプリント", "MX互換", "ホットスワップ", "USB-C"],
+  "tagsEn": ["split", "60%", "3D-printed", "MX-compatible", "hotswap", "USB-C"],
+  "addedAt": "2026-06-13"
+}
