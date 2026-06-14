@@ -1,0 +1,11 @@
+{
+  "name": "Flake",
+  "designer": "anywhy-io",
+  "description": "MX/Choc両対応の40/46/58キー無線分割キーボード。リバーシブルPCBとSeeed Xiao nRF52840、超薄型ケース、ZMK Studio対応を組み合わせ、サイズ違いを同じガイドで組み立てられる。",
+  "descriptionEn": "A wireless 40/46/58-key split keyboard with MX and Choc support. The guide covers its reversible PCB, Seeed Xiao nRF52840 controllers, ultra-thin case, and ZMK Studio workflow across all sizes.",
+  "url": "https://github.com/anywhy-io/flake/blob/main/docs/build_guide.md",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "Choc互換", "ロープロファイル", "無線", "ホットスワップ"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "Choc-compatible", "low-profile", "wireless", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-14"
+}
