@@ -1,0 +1,16 @@
+{
+  "name": "Phobos",
+  "designer": "RGBKB",
+  "description": "Sol 3系プラットフォームを使う66キーの分割カラムスタッガード機。MXホットスワップ、周囲RGB、磁気式のネジ不要ケースに対応し、公式ガイドはプレート有無の両構成を案内する。",
+  "descriptionEn": "A 66-key split column-staggered board built on RGBKB's Sol 3 platform, with MX hotswap support, perimeter RGB, and a magnetic screwless case. The official guide covers both switchplate and plateless assembly paths.",
+  "url": "https://rgbkb.gitbook.io/rgbkb-build-guides/phobos",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "ホットスワップ", "RGB LED", "ガスケットマウント", "磁気式"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "hotswap", "RGB LED", "gasket mount", "magnetic"],
+  "shopLinks": [
+    {
+      "name": "RGBKB Phobos PCB",
+      "url": "https://www.rgbkb.net/products/phobos-pcb"
+    }
+  ],
+  "addedAt": "2026-06-13"
+}

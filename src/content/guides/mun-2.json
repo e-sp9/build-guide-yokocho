@@ -1,0 +1,10 @@
+{
+  "name": "Mün 2",
+  "designer": "RGBKB",
+  "description": "磁気式ケースと高速化したコントローラを備え、分割のままでも一体型60%ケースでも組める60%級キーボード。公式ガイドは組み立て後のフラッシュやアクセサリ設定まで案内する。",
+  "descriptionEn": "A 60%-class keyboard with a magnetic case and updated controller that can be built either as a split board or inside compatible unibody 60% cases. The official guide also covers flashing and accessory setup after assembly.",
+  "url": "https://rgbkb.gitbook.io/rgbkb-build-guides/mun-2",
+  "tags": ["分割", "60%", "ロウスタッガード", "磁気式"],
+  "tagsEn": ["split", "60%", "row-staggered", "magnetic"],
+  "addedAt": "2026-06-13"
+}

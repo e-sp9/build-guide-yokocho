@@ -1,0 +1,16 @@
+{
+  "name": "Sol 3",
+  "designer": "RGBKB",
+  "description": "72キーの分割ロウスタッガード機。MXホットスワップ、周囲RGB、磁気式ガスケットケースを備え、公式ガイドはフラッシュやアクセサリ追加まで含めて案内する。",
+  "descriptionEn": "A 72-key split row-staggered board with MX hotswap support, perimeter RGB, and a magnetic gasket-mounted case. The official guide also covers flashing and accessory installation.",
+  "url": "https://rgbkb.gitbook.io/rgbkb-build-guides/sol-3",
+  "tags": ["分割", "60%", "ロウスタッガード", "MX互換", "ホットスワップ", "RGB LED", "ガスケットマウント", "磁気式"],
+  "tagsEn": ["split", "60%", "row-staggered", "MX-compatible", "hotswap", "RGB LED", "gasket mount", "magnetic"],
+  "shopLinks": [
+    {
+      "name": "RGBKB Sol 3 PCB",
+      "url": "https://www.rgbkb.net/products/sol-3-pcb"
+    }
+  ],
+  "addedAt": "2026-06-13"
+}
