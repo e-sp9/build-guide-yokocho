@@ -1,0 +1,11 @@
+{
+  "name": "Corax54",
+  "designer": "dnlbauer",
+  "description": "54キーの低背分割キーボード。左右のスクロールホイール、Nice!Nano + ZMK前提の完全無線構成、Nice!View対応、磁力固定の3Dプリントケースを備える。",
+  "descriptionEn": "A 54-key low-profile split keyboard with scrollwheels on both halves, a fully wireless Nice!Nano + ZMK design, Nice!View support, and a magnetic 3D-printed case.",
+  "url": "https://github.com/dnlbauer/corax-keyboard/blob/main/docs/BuildGuide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル", "無線", "ホットスワップ"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile", "wireless", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
