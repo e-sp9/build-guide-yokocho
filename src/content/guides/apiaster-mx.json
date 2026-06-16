@@ -1,0 +1,11 @@
+{
+  "name": "Apiaster MX",
+  "designer": "nmunnich",
+  "description": "50キーの分割カラムスタッガードキーボード。可動式の親指クラスタと内側キー削減オプションを備え、MXホットスワップPCBをXIAO nRF52840またはRP2040-Zero構成で組める。",
+  "descriptionEn": "A 50-key split column-staggered keyboard with an adjustable thumb cluster and optional reduced inner keys. The MX hotswap PCB supports XIAO nRF52840 or RP2040-Zero builds.",
+  "url": "https://github.com/nmunnich/apiaster/blob/main/docs/_START_HERE.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "ホットスワップ", "無線"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "hotswap", "wireless"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
