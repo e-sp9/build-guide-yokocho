@@ -1,0 +1,11 @@
+{
+  "name": "Ergo-V-1",
+  "designer": "VPavliashvili",
+  "description": "Kinesis Advantage系キーウェルを下敷きに、Corne風3キーサムクラスタとQMK配線へ作り替えた有線の分割コンケーブキーボード。ケース準備から手配線、TRRS、ファーム書き込みまでREADMEで追える。",
+  "descriptionEn": "A wired split concave keyboard derived from the Kinesis Advantage-style keywell, rebuilt with a Corne-like three-key thumb cluster and QMK wiring. The README covers case prep, handwiring, TRRS setup, and firmware flashing.",
+  "url": "https://github.com/VPavliashvili/Ergo-V-1",
+  "tags": ["分割", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
