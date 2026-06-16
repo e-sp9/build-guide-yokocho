@@ -1,0 +1,11 @@
+{
+  "name": "Stront MX38/MX40",
+  "designer": "zzeneg",
+  "description": "同一手順で38キー版と40キー版を組み分けられる、モジュラー構成の分割キーボード。MXまたはKS-33/27スイッチ、LCD、トラックパッド、VIK対応モジュールまで含む詳細な公式ガイドがある。",
+  "descriptionEn": "A modular split keyboard family built with the same guide for both 38-key and 40-key versions. The official documentation covers MX or KS-33/27 switches, LCDs, trackpads, and VIK-ready modules.",
+  "url": "https://github.com/zzeneg/stront/blob/main/build-guide/mx/readme.md",
+  "tags": ["分割", "40%", "カラムスタッガード"],
+  "tagsEn": ["split", "40%", "column-staggered"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
