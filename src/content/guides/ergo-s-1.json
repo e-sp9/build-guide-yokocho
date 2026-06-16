@@ -1,0 +1,11 @@
+{
+  "name": "Ergo S-1",
+  "designer": "wizarddata",
+  "description": "標準104キーセット互換を意識して設計された、無線の分割コンケーブキーボード。Cherry MX/Gateron対応キーウェル、ZMKファーム、ケース、部材表、組み立てPDFが一式そろうオープンソース設計。",
+  "descriptionEn": "A wireless split concave keyboard designed around compatibility with standard 104-key sets. The open-source project includes Cherry MX/Gateron keywells, ZMK firmware, case files, a parts list, and a dedicated assembly PDF.",
+  "url": "https://github.com/wizarddata/Ergo-S-1/blob/main/Ergo%20S-1%20OE%20Assembly%20Instructions.pdf",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "無線"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "wireless"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
