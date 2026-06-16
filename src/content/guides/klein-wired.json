@@ -1,0 +1,11 @@
+{
+  "name": "Klein Wired",
+  "designer": "snsten",
+  "description": "36キーの分割カラムスタッガードキーボード。有線版はPro Micro/KB2040系で、MX/Chocホットスワップ、トラックパッド、OLED、ロータリーエンコーダ、ブザー/ハプティクス拡張に対応する。",
+  "descriptionEn": "A 36-key split column-staggered keyboard. The wired build targets Pro Micro or KB2040-class controllers and supports MX/Choc hotswap, a trackpad, OLED, rotary encoders, and buzzer or haptics options.",
+  "url": "https://github.com/snsten/Klein/blob/main/docs/buildguides/buildguide_wired.md",
+  "tags": ["分割", "30%", "カラムスタッガード", "MX互換", "Choc互換", "ホットスワップ", "ポインティングデバイス", "OLED", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "30%", "column-staggered", "MX-compatible", "Choc-compatible", "hotswap", "pointing device", "OLED", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
