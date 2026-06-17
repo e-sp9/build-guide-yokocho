@@ -1,0 +1,11 @@
+{
+  "name": "Thorium",
+  "designer": "note96e",
+  "description": "34キーの無線分割オーソリニアキーボード。XIAO nRF52840とMXホットスワップを前提に、左右分離とドングル構成、3Dプリントケース、フォーム追加まで公式ガイドで案内する。",
+  "descriptionEn": "A 34-key wireless split ortholinear keyboard built around XIAO nRF52840 controllers and MX hotswap sockets. The official guide covers the split halves, optional dongle setup, 3D-printed case parts, and foam tuning.",
+  "url": "https://github.com/note96e/thorium/blob/main/doc/buildguide.md",
+  "tags": ["分割", "30%", "オーソリニア", "MX互換", "無線", "ホットスワップ"],
+  "tagsEn": ["split", "30%", "ortholinear", "MX-compatible", "wireless", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-18"
+}
