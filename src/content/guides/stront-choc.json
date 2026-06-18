@@ -1,0 +1,11 @@
+{
+  "name": "Stront Choc",
+  "designer": "zzeneg",
+  "description": "38キーのロープロファイル分割キーボード。Kailh Choc v1系スイッチ、LCD、Cirqueトラックパッド、RP2040 Zeroを使う薄型構成を、専用の公式ビルドガイドで追える。",
+  "descriptionEn": "A 38-key low-profile split keyboard built around Kailh Choc v1 switches, an LCD, a Cirque trackpad, and RP2040 Zero controllers. It has a dedicated official build guide for the slim variant.",
+  "url": "https://github.com/zzeneg/stront/blob/main/build-guide/choc/readme.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
