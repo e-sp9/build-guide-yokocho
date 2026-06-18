@@ -1,0 +1,11 @@
+{
+  "name": "Fisk",
+  "designer": "vvhg1",
+  "description": "RP2040 Zeroと3Dプリントケースを使う54キーの分割手配線キーボード。OLED、ロータリーエンコーダ、左右接続用USB-Cまで含めたv2.0系の組み立て手順が公式ガイドで公開されている。",
+  "descriptionEn": "A 54-key split handwired keyboard built around RP2040 Zero controllers and a 3D-printed case. The official v2.0 guide covers OLEDs, rotary encoders, and the USB-C interconnect between halves.",
+  "url": "https://github.com/vvhg1/fisk_build_guide",
+  "tags": ["分割", "カラムスタッガード", "MX互換"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
