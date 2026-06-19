@@ -1,0 +1,11 @@
+{
+  "name": "Mantis",
+  "designer": "fxkuehl",
+  "description": "3枚PCBと六角キーキャップで浅いキーウェルを作る一体型エルゴキーボード。公式v0.3.3ガイドがQMK/Vial、RGB実装、積層ケース組み立てまで詳しく追える。",
+  "descriptionEn": "A unibody ergonomic keyboard that creates shallow key wells with three PCBs and hexagonal keycaps. The official v0.3.3 guide covers QMK/Vial setup, RGB assembly, and the stacked case build in detail.",
+  "url": "https://github.com/fxkuehl/mantis/blob/main/buildguide.md",
+  "tags": ["一体型", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル", "RGB LED", "3Dプリント"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "Choc-compatible", "low-profile", "RGB LED", "3D print"],
+  "shopLinks": [],
+  "addedAt": "2026-06-19"
+}
