@@ -1,0 +1,10 @@
+{
+  "name": "RustyKeys",
+  "designer": "KOBA789",
+  "description": "組込みRust入門向けに設計された名刺サイズの6キーキーボードキット。Raspberry Pi Pico 2基を使い、本体組み立てからデバッグアダプタ、ファームウェア開発まで公式ガイドで一貫して学べる。",
+  "descriptionEn": "A business-card-sized 6-key keyboard kit designed as an embedded Rust introduction. The official guide covers assembly, debugger setup, and firmware development with two Raspberry Pi Pico boards.",
+  "url": "https://rusty-keys.koba789.com/",
+  "tags": ["一体型", "マクロパッド", "オーソリニア", "MX互換", "RP2040"],
+  "tagsEn": ["unibody", "macropad", "ortholinear", "MX-compatible", "RP2040"],
+  "addedAt": "2026-06-20"
+}
