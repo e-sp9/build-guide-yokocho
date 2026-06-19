@@ -1,0 +1,10 @@
+{
+  "name": "Menura",
+  "designer": "rmuraglia",
+  "description": "30〜36キー構成を試せる無線分割キーボード。重なり合うMXソケット配置とケース用ウェッジにより、3x5+3から3x5+2や一体型風レイアウトまで段階的に実験できる。",
+  "descriptionEn": "A wireless split keyboard that can be configured from 30 to 36 keys. Its overlapping MX socket layout and case wedges let builders experiment across 3x5+3, 3x5+2, and unibody-like arrangements.",
+  "url": "https://github.com/rmuraglia/menura-kb/blob/main/docs/build-guide.md",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "無線"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "wireless"],
+  "addedAt": "2026-06-20"
+}
