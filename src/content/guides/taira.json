@@ -1,0 +1,11 @@
+{
+  "name": "Taira",
+  "designer": "strayer",
+  "description": "nice!nano 2基とKailh Choc v1で組む66キーの無線分割キーボード。公式ガイドが電池配線、Mill-Maxソケット、Bluetooth動作確認まで写真付きで追える。",
+  "descriptionEn": "A 66-key wireless split keyboard built with two nice!nanos and Kailh Choc v1 switches. The official guide walks through battery wiring, Mill-Max socketing, and Bluetooth bring-up with detailed photos.",
+  "url": "https://github.com/strayer/taira-keyboard/blob/main/BUILDGUIDE.md",
+  "tags": ["分割", "60%", "カラムスタッガード", "Choc互換", "ロープロファイル", "無線", "ホットスワップ"],
+  "tagsEn": ["split", "60%", "column-staggered", "Choc-compatible", "low-profile", "wireless", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-19"
+}
