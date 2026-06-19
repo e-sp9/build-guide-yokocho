@@ -1,0 +1,10 @@
+{
+  "name": "tg4x",
+  "designer": "MythosMann",
+  "description": "TG3部品流用にも対応した安価な45%一体型キーボード。Pro Micro駆動で、標準ANSI系キーキャップ、分割スペースバー、RGBアンダーグローを扱えるオープンソース設計。",
+  "descriptionEn": "An inexpensive open-source 45% unibody keyboard that can reuse TG3 donor parts. It runs on a Pro Micro and supports standard ANSI-style keycaps, split spacebars, and RGB underglow.",
+  "url": "https://github.com/MythosMann/tg4x/blob/master/buildguide.md",
+  "tags": ["一体型", "45%", "ロウスタッガード", "MX互換", "RGB LED"],
+  "tagsEn": ["unibody", "45%", "row-staggered", "MX-compatible", "RGB LED"],
+  "addedAt": "2026-06-20"
+}
