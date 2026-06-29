@@ -1,0 +1,11 @@
+{
+  "name": "Porcupine",
+  "designer": "anarion80",
+  "description": "36〜42キー派生を持つ有線/無線対応の分割キーボード。Chocホットスワップ対応の可逆PCBを採用し、公式ガイドは3つのレイアウト派生をまとめて組み立て・配線・ファーム更新まで案内する。",
+  "descriptionEn": "A wired or wireless split keyboard family with 36-42 key variants, a reversible Choc hotswap PCB, and three related layouts. The official guide covers the shared assembly flow, wiring choices, and firmware steps across the family.",
+  "url": "https://github.com/anarion80/porcupine/blob/main/build_guide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル", "無線", "ホットスワップ"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile", "wireless", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-18"
+}
