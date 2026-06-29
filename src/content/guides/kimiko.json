@@ -1,0 +1,11 @@
+{
+  "name": "Kimiko",
+  "designer": "Keycapsss",
+  "description": "58〜60キーの分割キーボード。リバーシブルPCBにMX互換スイッチ、OLED、RGB LED、ロータリーエンコーダなどのオプションを組み込める。",
+  "descriptionEn": "A 58-60 key split keyboard with reversible PCBs. The guide covers MX-compatible switches plus optional OLEDs, RGB LEDs, and rotary encoders.",
+  "url": "https://github.com/Keycapsss/Kimiko/blob/master/buildguide_en.md",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "OLED", "RGB LED", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "OLED", "RGB LED", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-06-30"
+}
