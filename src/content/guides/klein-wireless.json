@@ -1,0 +1,11 @@
+{
+  "name": "Klein Wireless",
+  "designer": "snsten",
+  "description": "36キーの分割カラムスタッガードキーボード。無線版はXIAO BLE系で、MX/Chocホットスワップ、バッテリー駆動、OLEDまたはロータリーエンコーダを選べる。",
+  "descriptionEn": "A 36-key split column-staggered keyboard. The wireless build targets XIAO BLE controllers with MX/Choc hotswap, battery power, and optional OLED or rotary encoder support.",
+  "url": "https://github.com/snsten/Klein/blob/main/docs/buildguides/buildguide_wireless.md",
+  "tags": ["分割", "30%", "カラムスタッガード", "MX互換", "Choc互換", "ホットスワップ", "無線", "OLED", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "30%", "column-staggered", "MX-compatible", "Choc-compatible", "hotswap", "wireless", "OLED", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-06-17"
+}
