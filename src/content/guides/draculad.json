@@ -1,0 +1,11 @@
+{
+  "name": "DracuLad",
+  "designer": "MangoIV",
+  "description": "OLED、ロータリーエンコーダ、Pimoroniトラックボールに対応する34-36キーの分割キーボード。公式ガイドがMX/Choc両対応の実装と各オプションの組み込み手順をまとめている。",
+  "descriptionEn": "A 34-36 key split keyboard with support for OLEDs, rotary encoders, and a Pimoroni trackball. The official guide covers the MX/Choc-capable build and the optional modules in one assembly flow.",
+  "url": "https://github.com/MangoIV/dracuLad/blob/master/buildguide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換", "OLED", "ロータリーエンコーダ", "ポインティングデバイス", "RGB LED"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible", "OLED", "rotary encoder", "pointing device", "RGB LED"],
+  "shopLinks": [],
+  "addedAt": "2026-06-19"
+}
