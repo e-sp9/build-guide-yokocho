@@ -1,0 +1,11 @@
+{
+  "name": "Angelina72 Rev. 2",
+  "designer": "clomie",
+  "description": "64/68/72キー構成を選べる不規則ロウスタッガードの分割キーボード。公式Rev.2ガイドがプレート切り離し、ソケット実装、TRRS、QMK書き込みまで写真付きで案内する。",
+  "descriptionEn": "A split keyboard with irregular row stagger and selectable 64, 68, or 72-key builds. The official Rev. 2 guide walks through plate separation, socket assembly, TRRS wiring, and QMK flashing with photos.",
+  "url": "https://github.com/clomie/angelina72/blob/master/BUILDGUIDE.md",
+  "tags": ["分割", "ロウスタッガード", "MX互換", "ホットスワップ"],
+  "tagsEn": ["split", "row-staggered", "MX-compatible", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-19"
+}
