@@ -1,0 +1,11 @@
+{
+  "name": "Microdox",
+  "designer": "waffle87",
+  "description": "MX/Choc両対応の36キー超小型分割キーボード。公式v2ビルドガイドがSMD実装、OLED、RGB、エンコーダ、QMK書き込みまで一通り案内する。",
+  "descriptionEn": "A tiny 36-key split keyboard that supports both MX and Choc parts. The official v2 build guide walks through SMD assembly, OLEDs, RGB, encoders, and QMK flashing.",
+  "url": "https://github.com/waffle87/microdox/blob/master/v2_guide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換", "OLED", "RGB LED", "ロータリーエンコーダ", "ホットスワップ"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible", "OLED", "RGB LED", "rotary encoder", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-06-19"
+}
