@@ -1,0 +1,11 @@
+{
+  "name": "SNAP",
+  "designer": "nullbits",
+  "description": "75%クラスの分割キーボードキット。スルーホール部品を中心に、MX互換スイッチ、ロータリーエンコーダ、OLED、アクリルケースを組み立てる。",
+  "descriptionEn": "A 75%-class split keyboard kit built around through-hole parts. The guide covers MX-compatible switches, rotary encoders, OLEDs, and an acrylic case.",
+  "url": "https://github.com/nullbitsco/docs/blob/main/snap/build_guide_en.md",
+  "tags": ["分割", "75%", "ロウスタッガード", "MX互換", "スルーホール", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["split", "75%", "row-staggered", "MX-compatible", "through-hole", "rotary encoder", "OLED"],
+  "shopLinks": [],
+  "addedAt": "2026-06-30"
+}

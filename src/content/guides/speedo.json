@@ -1,0 +1,11 @@
+{
+  "name": "Speedo",
+  "designer": "CozyKeys",
+  "description": "66キーのコンパクトな一体型エルゴキーボード。MX互換スイッチ、SMDダイオード、Elite-C、オプションのWS2812Bアンダーグローを組み込む。",
+  "descriptionEn": "A compact 66-key unibody ergonomic keyboard. The build uses MX-compatible switches, SMD diodes, an Elite-C controller, and optional WS2812B underglow.",
+  "url": "https://github.com/cozykeys/speedo/blob/master/build_guide.md",
+  "tags": ["一体型", "65%", "カラムスタッガード", "MX互換", "RGB LED"],
+  "tagsEn": ["unibody", "65%", "column-staggered", "MX-compatible", "RGB LED"],
+  "shopLinks": [],
+  "addedAt": "2026-06-30"
+}

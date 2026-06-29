@@ -1,0 +1,11 @@
+{
+  "name": "Pangaea Keyboard",
+  "designer": "e3w2q",
+  "description": "親指・小指モジュールを調整できるモジュラー分割キーボード。MX互換構成を基本に、Choc、ロータリーエンコーダ、LED、分離式ナンバー列にも対応する。",
+  "descriptionEn": "A modular split keyboard with adjustable thumb and pinky modules. The standard build uses MX-compatible switches, with options for Choc, rotary encoders, LEDs, and a removable number row.",
+  "url": "https://github.com/e3w2q/Pangaea-keyboard/blob/main/build_guide_en.md",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "Choc互換", "ロータリーエンコーダ", "RGB LED"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "Choc-compatible", "rotary encoder", "RGB LED"],
+  "shopLinks": [],
+  "addedAt": "2026-06-30"
+}

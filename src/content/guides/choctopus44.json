@@ -1,0 +1,11 @@
+{
+  "name": "Choctopus44",
+  "designer": "SlightHeadache",
+  "description": "Chocピッチの44キー分割キーボード。低背スイッチ、ホットスワップソケット、ロータリーエンコーダ、無線向けの電源・バッテリー部品を組み込める。",
+  "descriptionEn": "A 44-key split keyboard with Choc spacing. The build supports low-profile switches, hotswap sockets, a rotary encoder, and wireless-oriented power and battery parts.",
+  "url": "https://github.com/SlightHeadache/choctopus44/blob/master/documents/buildguide.md",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ", "無線", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile", "hotswap", "wireless", "rotary encoder"],
+  "shopLinks": [],
+  "addedAt": "2026-06-30"
+}
