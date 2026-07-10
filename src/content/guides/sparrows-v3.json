@@ -1,0 +1,11 @@
+{
+  "name": "SparrowS v3",
+  "designer": "Atsushi Morimoto (@74th)",
+  "description": "右手側のデバイス配置を考慮した58キーの分割キーボード。ガスケットマウントケース、MX/Choc対応、Qwiic拡張、ホットスワップに対応し、右手追加4キーパッドの手順も含む。",
+  "descriptionEn": "A 58-key split keyboard shaped around placing devices beside the right half. It supports gasket-mount cases, MX or Choc switches, Qwiic expansion, hotswap, and an optional four-key right-side pad.",
+  "url": "https://github.com/74th/sparrow62-buildguide/blob/master/SparrowS_v3.md",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "Choc互換", "ガスケットマウント", "ホットスワップ"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "Choc-compatible", "gasket mount", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-07-11"
+}
