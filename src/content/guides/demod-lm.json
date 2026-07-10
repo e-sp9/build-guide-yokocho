@@ -1,0 +1,13 @@
+{
+  "name": "Demod LM",
+  "designer": "Keebio",
+  "description": "アルミケースを備えたロープロファイルテンキー。Choc V2ホットスワップ、VIA対応、RGB LEDを備え、スイッチとキーキャップの装着からケース再組立までを扱う。",
+  "descriptionEn": "A low-profile numpad with an aluminum case. It supports Choc V2 hotswap switches, VIA, and RGB LEDs, with steps for installing switches and keycaps and reassembling the case.",
+  "url": "https://docs.keeb.io/demod-lm-build-guide",
+  "tags": ["マクロパッド", "テンキー", "オーソリニア", "Choc互換", "ロープロファイル", "ホットスワップ"],
+  "tagsEn": ["macropad", "numpad", "ortholinear", "Choc-compatible", "low-profile", "hotswap"],
+  "shopLinks": [
+    { "name": "Keebio", "url": "https://keeb.io/products/demod-lm-kit" }
+  ],
+  "addedAt": "2026-07-11"
+}

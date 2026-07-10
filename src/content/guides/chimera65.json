@@ -1,0 +1,13 @@
+{
+  "name": "Chimera65",
+  "designer": "Upas / CannonKeys",
+  "description": "65%配列のガスケットマウントキーボード。PCBテスト、スタビライザーとスイッチ実装、ドーターボード、Poronガスケット、ケース組立までを順に案内する。",
+  "descriptionEn": "A 65% gasket-mount keyboard. The guide walks through PCB testing, stabilizer and switch installation, the daughterboard, Poron gaskets, and final case assembly.",
+  "url": "https://docs.cannonkeys.com/chimera65/build_guide/",
+  "tags": ["一体型", "65%", "ロウスタッガード", "MX互換", "ガスケットマウント"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "MX-compatible", "gasket mount"],
+  "shopLinks": [
+    { "name": "CannonKeys", "url": "https://cannonkeys.com/products/chimera65" }
+  ],
+  "addedAt": "2026-07-11"
+}

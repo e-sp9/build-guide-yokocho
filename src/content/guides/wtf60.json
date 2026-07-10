@@ -1,0 +1,11 @@
+{
+  "name": "WTF60",
+  "designer": "Keebio",
+  "description": "一般的な60%ケースに収めるミラー配列の一体型キーボード。ケース中央スタンドオフの加工、2uスタビライザー、スイッチはんだ付け、RGBストリップ追加手順を扱う。",
+  "descriptionEn": "A mirrored-layout unibody keyboard for standard 60% cases. The guide covers trimming the center standoff, installing 2u stabilizers, soldering switches, and optionally adding RGB strips.",
+  "url": "https://docs.keeb.io/wtf60-build-guide",
+  "tags": ["一体型", "60%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "MX-compatible"],
+  "shopLinks": [],
+  "addedAt": "2026-07-11"
+}
