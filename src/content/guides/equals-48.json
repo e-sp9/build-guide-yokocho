@@ -1,0 +1,16 @@
+{
+  "name": "Equals 48",
+  "designer": "Boardsource",
+  "description": "4x12配列の40%オーソリニアキーボード。CNCアルミケースと組み立て済みRP2040ホットスワップPCBを使い、スイッチとキーキャップを取り付けるだけで組める。",
+  "descriptionEn": "A 4x12 40% ortholinear keyboard with a CNC aluminum case and preassembled RP2040 hotswap PCB. The build only needs switches and keycaps installed.",
+  "url": "https://boardsource.xyz/blogs/build-guides/equals-build-guide",
+  "tags": ["一体型", "40%", "オーソリニア", "MX互換", "ホットスワップ"],
+  "tagsEn": ["unibody", "40%", "ortholinear", "MX-compatible", "hotswap"],
+  "shopLinks": [
+    {
+      "name": "Boardsource",
+      "url": "https://boardsource.xyz/products/equals-48"
+    }
+  ],
+  "addedAt": "2026-07-12"
+}

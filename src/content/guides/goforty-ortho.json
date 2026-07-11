@@ -1,0 +1,16 @@
+{
+  "name": "GoForty Ortho",
+  "designer": "サリチル酸",
+  "description": "GoFortyコンセプトの40%オーソリニアキーボード。Choc v2スイッチを使う一体型ロープロファイル構成で、はんだ付けなしにスイッチ、キーキャップ、プレート類を組み立てられる。",
+  "descriptionEn": "A 40% ortholinear keyboard from the GoForty concept. It is a unibody low-profile Choc v2 build that assembles switches, keycaps, and plates without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/go40ortho-build-guide",
+  "tags": ["一体型", "40%", "オーソリニア", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "ortholinear", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/goforty-v2?variant=41784561893470"
+    }
+  ],
+  "addedAt": "2026-07-12"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "ToSeventy",
+  "designer": "サリチル酸",
+  "description": "Choc v2対応の65%級ロープロファイルキーボード。Ortho、JP、USの3系統を同じガイドで扱い、ケースレスやフレームケースの構成をはんだ付けなしで組み立てられる。",
+  "descriptionEn": "A Choc v2 low-profile keyboard in the 65% range. The guide covers Ortho, JP, and US variants, with caseless or frame-case builds assembled without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/to70-build-guide",
+  "tags": ["一体型", "65%", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "65%", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://salicylic-acid3.booth.pm/items/8341113"
+    }
+  ],
+  "addedAt": "2026-07-12"
+}
