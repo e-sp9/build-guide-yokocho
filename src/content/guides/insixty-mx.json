@@ -1,0 +1,10 @@
+{
+  "name": "InSixtyMX",
+  "designer": "サリチル酸",
+  "description": "InSixtyをMXスイッチ対応にした60%分割キーボード。EN/JP配列を同じ手順で組めるケースレス+フレームケース系の構成で、はんだ付けなしの組み立てに対応する。",
+  "descriptionEn": "A 60% split keyboard that adapts InSixty for MX-compatible switches. The guide covers EN and JP layouts with a caseless/frame-case style, assembled without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/in60mx-build-guide",
+  "tags": ["分割", "60%", "MX互換"],
+  "tagsEn": ["split", "60%", "MX-compatible"],
+  "addedAt": "2026-07-12"
+}

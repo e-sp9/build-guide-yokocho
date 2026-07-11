@@ -1,0 +1,16 @@
+{
+  "name": "Rechteck",
+  "designer": "Boardsource",
+  "description": "Choc V1スイッチ向けの薄型60%ワイヤレスキーボード。CNCアルミケース、ZMK、ホットスワップPCBを備え、スタビライザー、バッテリー、ケース組み込みまで公式ガイドで追える。",
+  "descriptionEn": "A slim 60% wireless keyboard for Choc V1 switches. It uses a CNC aluminum case, ZMK, and hotswap PCB, with the guide covering stabilizers, battery, and case assembly.",
+  "url": "https://boardsource.xyz/blogs/build-guides/rechteck-build-guide",
+  "tags": ["一体型", "60%", "ロウスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ", "無線"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "Choc-compatible", "low-profile", "hotswap", "wireless"],
+  "shopLinks": [
+    {
+      "name": "Boardsource",
+      "url": "https://boardsource.xyz/products/rechteck"
+    }
+  ],
+  "addedAt": "2026-07-12"
+}
