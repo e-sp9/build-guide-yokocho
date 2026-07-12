@@ -1,0 +1,13 @@
+{
+  "name": "Aurora Corne",
+  "designer": "foostan",
+  "description": "Corneをsplitkb.comがAuroraシリーズとして再設計した42キー分割カラムスタッガードキーボード。MX/Choc両対応、OLED、エンコーダ、無線向け電源スイッチに対応する。",
+  "descriptionEn": "A 42-key split column-staggered keyboard based on Corne and reworked by splitkb.com for the Aurora series. It supports MX/Choc switches, OLEDs, encoders, and wireless-friendly power switches.",
+  "url": "https://docs.splitkb.com/product-guides/aurora-series/build-guide",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [
+    { "name": "splitkb.com", "url": "https://splitkb.com/products/aurora-corne" }
+  ],
+  "addedAt": "2026-07-13"
+}

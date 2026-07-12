@@ -1,0 +1,13 @@
+{
+  "name": "Aurora Sofle v2",
+  "designer": "Josef Adamcik",
+  "description": "Sofle v2をsplitkb.comがAuroraシリーズとして再設計した58キー分割カラムスタッガードキーボード。MX/Choc両対応、OLED、エンコーダ、無線向け電源スイッチに対応する。",
+  "descriptionEn": "A 58-key split column-staggered keyboard based on Sofle v2 and reworked by splitkb.com for the Aurora series. It supports MX/Choc switches, OLEDs, encoders, and wireless-friendly power switches.",
+  "url": "https://docs.splitkb.com/product-guides/aurora-series/build-guide",
+  "tags": ["分割", "60%", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["split", "60%", "column-staggered", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [
+    { "name": "splitkb.com", "url": "https://splitkb.com/products/aurora-sofle-v2" }
+  ],
+  "addedAt": "2026-07-13"
+}

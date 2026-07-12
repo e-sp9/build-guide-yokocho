@@ -1,0 +1,11 @@
+{
+  "name": "Caravelle-BLE",
+  "designer": "SatT",
+  "description": "左右分離型の無線対応40%キーボード。トップマウント方式の3Dプリントケースを使い、BLE Micro Pro、スイッチ、キーキャップを組み込んで完成させる。",
+  "descriptionEn": "A wireless 40% split keyboard with a top-mount 3D-printed case. The guide walks through installing a BLE Micro Pro, switches, and keycaps to complete the build.",
+  "url": "https://github.com/satt99/caravelle-build-guide",
+  "tags": ["分割", "40%", "MX互換", "無線", "3Dプリント"],
+  "tagsEn": ["split", "40%", "MX-compatible", "wireless", "3D printed"],
+  "shopLinks": [],
+  "addedAt": "2026-07-13"
+}
