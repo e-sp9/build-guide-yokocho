@@ -1,0 +1,10 @@
+{
+  "name": "ClickBoard Ortho",
+  "designer": "サリチル酸",
+  "description": "薄型マウススイッチをキーに使う超薄型オーソリニアキーボード。ケース、実装済み基板、Poronフォーム、ボトムカバーをネジ止めし、専用キーキャップを組み合わせる。",
+  "descriptionEn": "An ultra-thin ortholinear keyboard that uses low-profile mouse switches as keys. The build screws together the case, assembled PCB, Poron foam, bottom cover, and dedicated keycaps.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/cb-ortho-build-guide",
+  "tags": ["一体型", "40%", "オーソリニア", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "ortholinear", "low-profile"],
+  "addedAt": "2026-07-14"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Focus40 JP",
+  "designer": "サリチル酸 / moimate",
+  "description": "moimate企画、サリチル酸設計の40%ロープロファイルキーボード。アルミケース、JP配列基板、スタビライザー、フォームを使い、はんだ付けなしで完成度の高い小型機を組み立てられる。",
+  "descriptionEn": "A 40% low-profile keyboard planned by moimate and designed by Salicylic Acid. The guide assembles an aluminum case, JP-layout PCB, stabilizers, and foam without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/focus40jp-build-guide",
+  "tags": ["一体型", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/focus40-%E9%BB%92ver?variant=41921219067998"
+    }
+  ],
+  "addedAt": "2026-07-14"
+}

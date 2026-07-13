@@ -1,0 +1,16 @@
+{
+  "name": "cool650lp",
+  "designer": "telzo2000 / mki0002ozlet",
+  "description": "50キーの分割ロープロファイルオーソリニアキーボード。Chocソケット、RP2040-Zero、3Dプリントケースを使い、はんだ付けからケース組み付け、ファームウェア導入までを扱う。",
+  "descriptionEn": "A 50-key split low-profile ortholinear keyboard. The guide covers Choc sockets, an RP2040-Zero, a 3D-printed case, soldering, case assembly, and firmware installation.",
+  "url": "https://github.com/telzo2000/cool650lp/blob/main/buildguide_for_cool650lp.md",
+  "tags": ["分割", "50%", "オーソリニア", "Choc互換", "ロープロファイル", "3Dプリント"],
+  "tagsEn": ["split", "50%", "ortholinear", "Choc-compatible", "low-profile", "3D-printed"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://booth.pm/ja/items/7766771"
+    }
+  ],
+  "addedAt": "2026-07-14"
+}
