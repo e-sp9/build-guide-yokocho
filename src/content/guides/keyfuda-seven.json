@@ -1,0 +1,16 @@
+{
+  "name": "KeyFuda Seven",
+  "designer": "サリチル酸",
+  "description": "CreatorPad用キーキャップを活かす6キーマクロパッド。Choc v2スイッチ、3Dプリントケース、実装済み基板を使い、はんだ付けなしでネジ止めとスイッチ装着を中心に組み立てられる。",
+  "descriptionEn": "A 6-key macropad designed around CreatorPad keycaps. It uses Choc v2 switches, a 3D-printed case, and a pre-assembled PCB, so the build centers on screws and switch installation without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/keyfuda07-build-guide",
+  "tags": ["マクロパッド", "Choc互換", "ロープロファイル", "3Dプリント"],
+  "tagsEn": ["macropad", "Choc-compatible", "low-profile", "3D-printed"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/keyfuda-seven"
+    }
+  ],
+  "addedAt": "2026-07-14"
+}

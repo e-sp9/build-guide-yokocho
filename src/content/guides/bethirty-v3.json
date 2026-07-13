@@ -1,0 +1,10 @@
+{
+  "name": "BeThirty v3",
+  "designer": "サリチル酸",
+  "description": "GoFortyコンセプトから派生した30%ロープロファイルキーボード。RP2040搭載基板、Choc v2スイッチ、ネジレス3Dプリントケースで小型のOrtho/QAZ構成を組み立てられる。",
+  "descriptionEn": "A 30% low-profile keyboard derived from the GoForty concept. It uses an RP2040 PCB, Choc v2 switches, and a screwless 3D-printed case for compact Ortho or QAZ builds.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/be30v3screwless-build-guide",
+  "tags": ["一体型", "30%", "オーソリニア", "Choc互換", "ロープロファイル", "3Dプリント"],
+  "tagsEn": ["unibody", "30%", "ortholinear", "Choc-compatible", "low-profile", "3D-printed"],
+  "addedAt": "2026-07-14"
+}
