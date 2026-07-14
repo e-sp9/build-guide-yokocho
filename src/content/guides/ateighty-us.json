@@ -1,0 +1,16 @@
+{
+  "name": "AtEighty US",
+  "designer": "サリチル酸",
+  "description": "ファンクションキーまで備えた80%級のUS配列分割キーボード。Choc v2スイッチ、スタビライザー、ネジレスケースを使い、はんだ付けなしで大きめの薄型機を組み立てられる。",
+  "descriptionEn": "An 80%-class US-layout split keyboard with function keys. The guide assembles a larger low-profile build with Choc v2 switches, stabilizers, and a screwless case without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/at80screwless-build-guide",
+  "tags": ["分割", "80%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "80%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://booth.pm/ja/items/8502754"
+    }
+  ],
+  "addedAt": "2026-07-15"
+}
