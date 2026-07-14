@@ -1,0 +1,16 @@
+{
+  "name": "GoForty US",
+  "designer": "サリチル酸",
+  "description": "GoFortyコンセプトの40% US配列キーボード。Choc v2スイッチ、クリップ式スタビライザー、アクリルチルトバーを使い、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 40% US-layout keyboard from the GoForty concept. It assembles without soldering using Choc v2 switches, clip-in stabilizers, and an acrylic tilt bar.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/go40us-build-guide",
+  "tags": ["一体型", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/goforty-v2?variant=41784562417758"
+    }
+  ],
+  "addedAt": "2026-07-15"
+}

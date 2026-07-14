@@ -1,0 +1,16 @@
+{
+  "name": "InSixtyEN",
+  "designer": "サリチル酸",
+  "description": "7sKB更新版のコンセプトで設計された60% EN配列分割キーボード。Choc v2スイッチ、スタビライザー、左右接続USB-Cを使う薄型構成をはんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 60% EN-layout split keyboard designed as an updated 7sKB concept. The low-profile Choc v2 build uses stabilizers and USB-C interconnects, assembled without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/in60en-build-guide",
+  "tags": ["分割", "60%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "60%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/insixty?variant=41784584798302"
+    }
+  ],
+  "addedAt": "2026-07-15"
+}

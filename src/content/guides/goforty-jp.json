@@ -1,0 +1,16 @@
+{
+  "name": "GoForty JP",
+  "designer": "サリチル酸",
+  "description": "GoFortyコンセプトの40%日本語配列キーボード。Choc v2スイッチ、スタビライザー、アクリルチルトバーを使い、はんだ付けなしで薄型一体型キットを組み立てられる。",
+  "descriptionEn": "A 40% Japanese-layout keyboard from the GoForty concept. It assembles a low-profile unibody kit with Choc v2 switches, stabilizers, and an acrylic tilt bar without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/go40jp-build-guide",
+  "tags": ["一体型", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/goforty-v2?variant=41784561926238"
+    }
+  ],
+  "addedAt": "2026-07-15"
+}

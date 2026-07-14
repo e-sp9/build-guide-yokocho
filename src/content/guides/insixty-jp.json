@@ -1,0 +1,16 @@
+{
+  "name": "InSixtyJP",
+  "designer": "サリチル酸",
+  "description": "InSixtyの日本語配列版として設計された60%分割キーボード。Choc v2スイッチ、スタビライザー、左右接続USB-Cを使い、はんだ付けなしで薄型JP配列を組み立てられる。",
+  "descriptionEn": "A 60% split keyboard designed as the Japanese-layout InSixty variant. It builds a low-profile JP layout with Choc v2 switches, stabilizers, and USB-C interconnects without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/in60jp-build-guide",
+  "tags": ["分割", "60%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "60%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [
+    {
+      "name": "Keeb-On!",
+      "url": "https://keeb-on.com/products/insixty?variant=41784584831070"
+    }
+  ],
+  "addedAt": "2026-07-15"
+}
