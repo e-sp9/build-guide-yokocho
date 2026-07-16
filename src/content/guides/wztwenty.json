@@ -1,0 +1,11 @@
+{
+  "name": "WzTwenty",
+  "designer": "サリチル酸",
+  "description": "Acid Caps LowProfileの1uコンベックスキー活用を想定した16キーテンキーパッド。実装済み基板、スイッチプレート、Frameケース、3Dプリント製ボトムを組み立てる。",
+  "descriptionEn": "A 16-key numpad designed around Acid Caps LowProfile 1u convex caps. The guide assembles a populated PCB, switch plate, frame case, and 3D-printed bottom.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/wz20-build-guide",
+  "tags": ["マクロパッド", "テンキー", "ロープロファイル"],
+  "tagsEn": ["macropad", "numpad", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-07-17"
+}
