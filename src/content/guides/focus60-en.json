@@ -1,0 +1,11 @@
+{
+  "name": "Focus60 EN",
+  "designer": "サリチル酸 / moimate",
+  "description": "moimate企画、サリチル酸設計の60%ロープロファイル分割キーボード。アルミケース、EN配列基板、スイッチプレート、スタビライザーを使い、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 60% low-profile split keyboard planned by moimate and designed by Salicylic Acid. It assembles without soldering using aluminum cases, EN-layout PCBs, switch plates, and stabilizers.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/focus60en-build-guide",
+  "tags": ["分割", "60%", "ロウスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "60%", "row-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-07-17"
+}

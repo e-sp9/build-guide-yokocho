@@ -1,0 +1,11 @@
+{
+  "name": "Focus40 Ortho",
+  "designer": "サリチル酸 / moimate",
+  "description": "moimate企画、サリチル酸設計の40%ロープロファイルキーボード。アルミケース、オーソリニア基板、スイッチプレート、フォームを使い、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 40% low-profile keyboard planned by moimate and designed by Salicylic Acid. It assembles without soldering using an aluminum case, ortholinear PCB, switch plate, and foam.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/focus40ortho-build-guide",
+  "tags": ["一体型", "40%", "オーソリニア", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["unibody", "40%", "ortholinear", "Choc-compatible", "low-profile"],
+  "shopLinks": [],
+  "addedAt": "2026-07-17"
+}
