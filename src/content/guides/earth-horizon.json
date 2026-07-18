@@ -1,0 +1,16 @@
+{
+  "name": "Earth:Horizon",
+  "designer": "A'sKey",
+  "description": "日本語配列に対応した75%クラスの無線分割キーボード。BLE Micro Pro Boost、単3電池ボックス、スタビライザー、ホットスワップ対応スイッチ、3Dプリントケースを組み立てられる。",
+  "descriptionEn": "A 75% class wireless split keyboard for Japanese layouts. The guide builds BLE Micro Pro Boost halves with AA battery boxes, stabilizers, hotswap MX switches, and 3D-printed cases.",
+  "url": "https://alektor.hatenablog.com/entry/2026/01/31/014403",
+  "tags": ["分割", "75%", "ロウスタッガード", "MX互換", "ホットスワップ", "無線"],
+  "tagsEn": ["split", "75%", "row-staggered", "MX-compatible", "hotswap", "wireless"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://booth.pm/ja/items/7927014"
+    }
+  ],
+  "addedAt": "2026-07-19"
+}

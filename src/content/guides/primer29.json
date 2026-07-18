@@ -1,0 +1,16 @@
+{
+  "name": "Primer29",
+  "designer": "遊舎工房",
+  "description": "遊舎工房が企画・設計した29キーのテンキーパッド兼マクロパッド。Primer61と縦幅を合わせた一体型キットで、ダイオード、Pro Micro、スイッチ、キーキャップまで組み立てられる。",
+  "descriptionEn": "A 29-key numpad and macropad planned and designed by Yushakobo. The unibody kit matches Primer61 depth and covers diode, Pro Micro, switch, and keycap assembly.",
+  "url": "https://github.com/yushakobo/build-documents/blob/master/Primer29/readme.md",
+  "tags": ["マクロパッド", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["macropad", "row-staggered", "MX-compatible"],
+  "shopLinks": [
+    {
+      "name": "遊舎工房",
+      "url": "https://shop.yushakobo.jp/products/primer29"
+    }
+  ],
+  "addedAt": "2026-07-19"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "SylvaTwin",
+  "designer": "A'sKey",
+  "description": "右手側に25mmトラックボールを備えた無線分割キーボード。XIAO nRF52840、昇圧回路、OLED、乾電池ボックス、トラックボールPCB、ケースまで組み立てられる。",
+  "descriptionEn": "A wireless split keyboard with a 25 mm trackball on the right half. The guide covers XIAO nRF52840, boost circuits, OLED, battery boxes, the trackball PCB, firmware, and case assembly.",
+  "url": "https://alektor.hatenablog.com/entry/2026/03/26/141309",
+  "tags": ["分割", "カラムスタッガード", "Choc互換", "ロープロファイル", "無線", "ポインティングデバイス"],
+  "tagsEn": ["split", "column-staggered", "Choc-compatible", "low-profile", "wireless", "pointing device"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://booth.pm/ja/items/7688370"
+    }
+  ],
+  "addedAt": "2026-07-19"
+}

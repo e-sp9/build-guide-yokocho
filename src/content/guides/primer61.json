@@ -1,0 +1,16 @@
+{
+  "name": "Primer61",
+  "designer": "遊舎工房",
+  "description": "遊舎工房が企画・設計した61キーの60%キーボードキット。スルーホール部品のはんだ付け、Pro Micro、スタビライザー、キースイッチ、キーキャップまで順に組み立てられる入門向けモデル。",
+  "descriptionEn": "A 61-key 60% keyboard kit planned and designed by Yushakobo. The guide walks through through-hole soldering, Pro Micro installation, stabilizers, switches, and keycaps for a beginner-friendly build.",
+  "url": "https://github.com/yushakobo/build-documents/blob/master/Primer61/readme.md",
+  "tags": ["一体型", "60%", "ロウスタッガード", "MX互換"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "MX-compatible"],
+  "shopLinks": [
+    {
+      "name": "遊舎工房",
+      "url": "https://shop.yushakobo.jp/products/primer61"
+    }
+  ],
+  "addedAt": "2026-07-19"
+}
