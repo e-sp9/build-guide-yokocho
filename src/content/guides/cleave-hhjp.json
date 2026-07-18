@@ -1,0 +1,16 @@
+{
+  "name": "CLEAVE HHJP",
+  "designer": "Rimebeck Works",
+  "description": "HHKB日本語配列風の完全無線分割キーボードキット。MX/Choc両対応のホットスワップソケット、XIAO nRF52840 Plus、LiPoバッテリー、ケース方式別の組み込みまで組み立てられる。",
+  "descriptionEn": "A fully wireless split keyboard kit inspired by Japanese HHKB-style layouts. The guide covers MX/Choc hotswap sockets, XIAO nRF52840 Plus, LiPo batteries, firmware, and multiple case builds.",
+  "url": "https://github.com/Rimebeck/CLEAVE-HHJP/tree/main/build-guide",
+  "tags": ["分割", "60%", "ロウスタッガード", "MX互換", "Choc互換", "ホットスワップ", "無線"],
+  "tagsEn": ["split", "60%", "row-staggered", "MX-compatible", "Choc-compatible", "hotswap", "wireless"],
+  "shopLinks": [
+    {
+      "name": "BOOTH",
+      "url": "https://booth.pm/ja/items/8395519"
+    }
+  ],
+  "addedAt": "2026-07-19"
+}
