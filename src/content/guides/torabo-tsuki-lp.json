@@ -1,0 +1,11 @@
+{
+  "name": "torabo-tsuki LP",
+  "designer": "sekigon-gonnoc / のぎけす屋",
+  "description": "トラックボールを搭載した無線分割ロープロファイルキーボード。25mmまたは19mmトラックボール、乾電池駆動、別売りトラックパッド対応の薄型構成を組み立てられる。",
+  "descriptionEn": "A wireless split low-profile keyboard with an integrated trackball. It supports 25 mm or 19 mm trackballs, battery power, and an optional trackpad in a thin build.",
+  "url": "https://github.com/sekigon-gonnoc/torabo-tsuki-lp/blob/master/build-guide.md",
+  "tags": ["分割", "ロープロファイル", "Choc互換", "無線", "トラックボール", "ポインティングデバイス"],
+  "tagsEn": ["split", "low-profile", "Choc-compatible", "wireless", "trackball", "pointing device"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/7200248" }],
+  "addedAt": "2026-07-20"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "cool642",
+  "designer": "telzo2000 / mki0002ozlet",
+  "description": "片側21キーの左右分割オーソリニアキーボード。BLE Micro ProとChoc v2対応ソケットを使い、Bluetooth接続の薄型42キー構成を組み立てられる。",
+  "descriptionEn": "A split ortholinear keyboard with 21 keys per side. It uses BLE Micro Pro and Choc v2-compatible sockets for a thin 42-key Bluetooth build.",
+  "url": "https://github.com/telzo2000/cool642/blob/main/buildguide_for_cool642.md",
+  "tags": ["分割", "40%", "オーソリニア", "Choc互換", "ロープロファイル", "無線"],
+  "tagsEn": ["split", "40%", "ortholinear", "Choc-compatible", "low-profile", "wireless"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/6260270" }],
+  "addedAt": "2026-07-20"
+}
