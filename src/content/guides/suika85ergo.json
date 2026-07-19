@@ -1,0 +1,11 @@
+{
+  "name": "suika85ergo",
+  "designer": "すいか技研",
+  "description": "85キーのカラムスタッガード一体型エルゴキーボード。Cherry MXまたはChoc V1互換スイッチを使い、ファンクションキー付きの大型配列をはんだ付けで組み立てる。",
+  "descriptionEn": "An 85-key unibody ergonomic keyboard with a column-staggered layout. It supports Cherry MX or Choc V1-compatible switches and includes a function-key row.",
+  "url": "https://github.com/suikagiken/suika85ergo/blob/main/buildguide_2.0.md",
+  "tags": ["一体型", "カラムスタッガード", "MX互換", "Choc互換"],
+  "tagsEn": ["unibody", "column-staggered", "MX-compatible", "Choc-compatible"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/6307161" }],
+  "addedAt": "2026-07-20"
+}

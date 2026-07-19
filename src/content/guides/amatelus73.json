@@ -1,0 +1,11 @@
+{
+  "name": "Amatelus73",
+  "designer": "魔王",
+  "description": "73キーのシンメトリカルスタッガード一体型キーボード。標準キーキャップを使いやすい配列に、RGB Matrix、ホットスワップ、アクリルプレートを組み合わせる。",
+  "descriptionEn": "A 73-key unibody keyboard with a symmetrical staggered layout. It pairs standard-keycap compatibility with RGB Matrix lighting, hotswap sockets, and acrylic plates.",
+  "url": "https://swanmatch.github.io/amatelus73/",
+  "tags": ["一体型", "75%", "ロウスタッガード", "MX互換", "ホットスワップ", "RGB LED"],
+  "tagsEn": ["unibody", "75%", "row-staggered", "MX-compatible", "hotswap", "RGB LED"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/consign_amatelus73" }],
+  "addedAt": "2026-07-20"
+}

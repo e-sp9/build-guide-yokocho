@@ -1,0 +1,11 @@
+{
+  "name": "Moon83s v2",
+  "designer": "A'sKey",
+  "description": "日本語配列を備えた左右分割ロープロファイルキーボード。Choc v2スイッチ、タッチセンサー、OLED、ケースを組み合わせ、薄型の無線分割キットを組み立てられる。",
+  "descriptionEn": "A split low-profile keyboard with a Japanese layout. It combines Choc v2 switches, touch sensors, OLEDs, and a case into a thin wireless split kit.",
+  "url": "https://alektor.hatenablog.com/entry/2025/09/13/234917",
+  "tags": ["分割", "ロープロファイル", "Choc互換", "無線"],
+  "tagsEn": ["split", "low-profile", "Choc-compatible", "wireless"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/7422511" }],
+  "addedAt": "2026-07-20"
+}
