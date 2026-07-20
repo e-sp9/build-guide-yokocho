@@ -1,0 +1,16 @@
+{
+  "name": "REVIUNG39 Mk-II",
+  "designer": "gtips",
+  "description": "39キーの一体型カラムスタッガードキーボード。中央の親指キー、MX互換ホットスワップ、RGB LED、シリコンシートを挟むアクリル積層ケース構成で組み立てる。",
+  "descriptionEn": "A 39-key unibody column-staggered keyboard with a center thumb cluster. The guide builds MX-compatible hotswap sockets, RGB LEDs, and a layered acrylic case with a silicone sheet.",
+  "url": "https://reviung.com/build-guide/583/",
+  "tags": ["一体型", "40%", "カラムスタッガード", "MX互換", "ホットスワップ", "RGB LED"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "MX-compatible", "hotswap", "RGB LED"],
+  "shopLinks": [
+    {
+      "name": "Little Keyboards",
+      "url": "https://www.littlekeyboards.com/products/reviung39-mkii-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-07-21"
+}
