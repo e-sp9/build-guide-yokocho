@@ -1,0 +1,16 @@
+{
+  "name": "REVIUNG53",
+  "designer": "gtips",
+  "description": "49から53キーで組める一体型ロウスタッガードキーボード。MX互換ホットスワップ、Underglow LED、複数のスタビライザー構成、ミドルプレートやHi-Proフレームに対応する。",
+  "descriptionEn": "A unibody row-staggered keyboard buildable with 49 to 53 keys. It supports MX-compatible hotswap sockets, underglow LEDs, multiple stabilizer layouts, and optional middle or Hi-Pro frames.",
+  "url": "https://reviung.com/build-guide/902/",
+  "tags": ["一体型", "50%", "ロウスタッガード", "MX互換", "ホットスワップ", "RGB LED"],
+  "tagsEn": ["unibody", "50%", "row-staggered", "MX-compatible", "hotswap", "RGB LED"],
+  "shopLinks": [
+    {
+      "name": "Little Keyboards",
+      "url": "https://www.littlekeyboards.com/products/reviung53-analyst-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-07-21"
+}

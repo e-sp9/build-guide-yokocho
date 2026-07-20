@@ -1,0 +1,16 @@
+{
+  "name": "REVIUNG5",
+  "designer": "gtips",
+  "description": "5キーまたは4キー+ロータリーエンコーダで組めるMX互換マクロパッド。Pro Micro、ダイオード、任意のRGB LED、アクリルプレートを使う小型のはんだ付け練習向けキット。",
+  "descriptionEn": "An MX-compatible macropad buildable as five keys or four keys plus a rotary encoder. The compact kit uses a Pro Micro, diodes, optional RGB LEDs, and acrylic plates for soldering practice.",
+  "url": "https://reviung.com/build-guide/829/",
+  "tags": ["マクロパッド", "MX互換", "ロータリーエンコーダ", "RGB LED"],
+  "tagsEn": ["macropad", "MX-compatible", "rotary encoder", "RGB LED"],
+  "shopLinks": [
+    {
+      "name": "Custom KBD",
+      "url": "https://customkbd.com/products/reviung-5"
+    }
+  ],
+  "addedAt": "2026-07-21"
+}

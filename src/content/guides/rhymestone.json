@@ -1,0 +1,16 @@
+{
+  "name": "Rhymestone",
+  "designer": "marksard",
+  "description": "40キーのMX互換分割オーソリニアキーボード。CorneとHelixをベースにしたリバーシブルPCB構成で、ホットスワップ、バックライトLED、OLED、TRRS接続に対応する。",
+  "descriptionEn": "A 40-key MX-compatible split ortholinear keyboard based on Corne and Helix ideas. Its reversible PCB build supports hotswap sockets, backlight LEDs, OLEDs, and TRRS interconnect.",
+  "url": "https://github.com/marksard/Keyboards/blob/master/rhymestone/documents/rhymestone_buildguide.md",
+  "tags": ["分割", "40%", "オーソリニア", "MX互換", "ホットスワップ", "RGB LED", "OLED"],
+  "tagsEn": ["split", "40%", "ortholinear", "MX-compatible", "hotswap", "RGB LED", "OLED"],
+  "shopLinks": [
+    {
+      "name": "Custom KBD",
+      "url": "https://customkbd.com/products/rhymestone-keyboard-kit"
+    }
+  ],
+  "addedAt": "2026-07-21"
+}
