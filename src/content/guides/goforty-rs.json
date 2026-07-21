@@ -1,0 +1,11 @@
+{
+  "name": "GoForty RS",
+  "designer": "サリチル酸",
+  "description": "GoForty R47Goの後継として設計された47キーの一体型ロウスタッガードキーボード。Choc v2スイッチ、実装済み基板、ネジレスケースをはんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 47-key unibody row-staggered keyboard designed as the successor to GoForty R47Go. It builds a Choc v2, pre-assembled PCB and screwless case without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/go40rs-build-guide",
+  "tags": ["一体型", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "Choc-compatible", "low-profile", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-07-22"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "OKBall",
+  "designer": "telzo2000 / mki0002ozlet",
+  "description": "40キーの有線分割オーソリニアキーボード。RP2040-Zero、PMW3610トラックボール、ロータリーエンコーダを組み込み、MXまたはChoc構成を選んで組み立てられる。",
+  "descriptionEn": "A 40-key wired split ortholinear keyboard. It builds around RP2040-Zero controllers, a PMW3610 trackball, and a rotary encoder, with either MX or Choc switch options.",
+  "url": "https://github.com/telzo2000/ckb640tb/blob/main/buildguide_for_ckb640tb.md",
+  "tags": ["分割", "40%", "オーソリニア", "MX互換", "Choc互換", "トラックボール", "ロータリーエンコーダ"],
+  "tagsEn": ["split", "40%", "ortholinear", "MX-compatible", "Choc-compatible", "trackball", "rotary encoder"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/8275491" }],
+  "addedAt": "2026-07-22"
+}
