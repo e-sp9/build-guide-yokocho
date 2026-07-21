@@ -1,0 +1,16 @@
+{
+  "name": "KOCHOU Basic Kit",
+  "designer": "ムクネス",
+  "description": "KOCHOUを一体型として組み立てる40%カラムスタッガードキット。実装済みRP2040基板、ブリッジ基板、チルトプレートを使い、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 40% column-staggered kit for building KOCHOU as a unibody keyboard. It uses pre-assembled RP2040 PCBs, a bridge PCB, and tilt plates for a solder-free build.",
+  "url": "https://modpc.mukuness.com/kochou-build-guide-basic-kit/",
+  "tags": ["一体型", "40%", "カラムスタッガード", "MX互換", "ホットスワップ"],
+  "tagsEn": ["unibody", "40%", "column-staggered", "MX-compatible", "hotswap"],
+  "shopLinks": [
+    {
+      "name": "遊舎工房",
+      "url": "https://shop.yushakobo.jp/products/12104"
+    }
+  ],
+  "addedAt": "2026-07-22"
+}

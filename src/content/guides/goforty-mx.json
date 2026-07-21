@@ -1,0 +1,11 @@
+{
+  "name": "GoFortyMX",
+  "designer": "サリチル酸",
+  "description": "GoFortyコンセプトをCherry MX向けに再設計した51キーの一体型40%キーボード。MX互換スイッチやGateron LP v3に対応し、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 51-key unibody 40% keyboard that reworks the GoForty concept for Cherry MX. It supports MX-compatible switches and Gateron LP v3, and assembles without soldering.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/go40mx-build-guide",
+  "tags": ["一体型", "40%", "ロウスタッガード", "MX互換", "ホットスワップ"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "MX-compatible", "hotswap"],
+  "shopLinks": [],
+  "addedAt": "2026-07-22"
+}
