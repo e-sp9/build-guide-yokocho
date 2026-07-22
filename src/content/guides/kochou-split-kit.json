@@ -1,0 +1,11 @@
+{
+  "name": "KOCHOU Split Kit",
+  "designer": "ムクネス",
+  "description": "KOCHOUを分割型として組み立てる40%カラムスタッガードキット。実装済みRP2040基板、HDMI接続のブリッジモジュール、チルトプレートを使い、はんだ付けなしで組み立てられる。",
+  "descriptionEn": "A 40% column-staggered kit for building KOCHOU as a split keyboard. It uses pre-assembled RP2040 PCBs, HDMI bridge modules, and tilt plates for a solder-free build.",
+  "url": "https://modpc.mukuness.com/kochou-build-guide-split-kit/",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "ホットスワップ", "RP2040"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "hotswap", "RP2040"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/8143533" }],
+  "addedAt": "2026-07-23"
+}

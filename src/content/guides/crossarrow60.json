@@ -1,0 +1,11 @@
+{
+  "name": "CROSSARROW60",
+  "designer": "ムクネス",
+  "description": "十字アローキーを備えた60%ロウスタッガードのはんだ付け不要キット。実装済み基板、KBDMicro RP2040、アンダーグローLEDを使い、Remapでキー割り当てを変更できる。",
+  "descriptionEn": "A solder-free 60% row-staggered kit with cross-style arrow keys. It uses a pre-assembled PCB, KBDMicro RP2040, and underglow LEDs, with keymap editing through Remap.",
+  "url": "https://modpc.mukuness.com/crossarrow60-build-guide/",
+  "tags": ["一体型", "60%", "ロウスタッガード", "MX互換", "RGB LED", "RP2040"],
+  "tagsEn": ["unibody", "60%", "row-staggered", "MX-compatible", "RGB LED", "RP2040"],
+  "shopLinks": [],
+  "addedAt": "2026-07-23"
+}
