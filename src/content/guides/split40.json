@@ -1,0 +1,11 @@
+{
+  "name": "Split40",
+  "designer": "tm / hirotomi",
+  "description": "左右分割とマグネット連結の一体運用に対応する40%ロウスタッガードのロープロファイル無線キット。XIAO nRF52840、ZMK、ホットスワップに対応する。",
+  "descriptionEn": "A 40% row-staggered low-profile wireless kit that can be used split or magnetically joined as one board. It uses XIAO nRF52840, ZMK, and hotswap sockets.",
+  "url": "https://note.com/hirotomi0/n/ne55badaec3f9",
+  "tags": ["分割", "一体型", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ", "無線"],
+  "tagsEn": ["split", "unibody", "40%", "row-staggered", "Choc-compatible", "low-profile", "hotswap", "wireless"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/7427738" }],
+  "addedAt": "2026-07-23"
+}

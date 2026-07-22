@@ -1,0 +1,11 @@
+{
+  "name": "GeaconPolaris",
+  "designer": "teporz",
+  "description": "人差し指トラックボールやMeKaBuモジュールに対応する50%分割GRIN配列のロープロファイル無線キット。ZMK、乾電池駆動、OLED、方向スイッチ、タッチセンサーを備える。",
+  "descriptionEn": "A 50% split GRIN-layout low-profile wireless kit with support for an index-finger trackball and MeKaBu modules. It uses ZMK, AAA battery power, OLED, a directional switch, and touch sensors.",
+  "url": "https://te9no.github.io/NarehatePlayground/guides/20geaconpolaris/",
+  "tags": ["分割", "50%", "オーソリニア", "Choc互換", "ロープロファイル", "無線", "ポインティングデバイス", "OLED"],
+  "tagsEn": ["split", "50%", "ortholinear", "Choc-compatible", "low-profile", "wireless", "pointing device", "OLED"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/7995609" }],
+  "addedAt": "2026-07-23"
+}

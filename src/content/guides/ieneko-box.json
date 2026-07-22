@@ -1,0 +1,11 @@
+{
+  "name": "Ieneko-Box",
+  "designer": "Daraku-Neko",
+  "description": "サイドタッチセンサー、ソレノイド、フロントスイッチを備える箱型キーボードキット。42キーのロウスタッガードまたは47キーのオーソリニア部を選んで組み立てられる。",
+  "descriptionEn": "A box-style keyboard kit with side touch sensors, a solenoid, and a front switch. It can be built with either a 42-key row-staggered or 47-key ortholinear keyboard section.",
+  "url": "https://kbdbuild.vercel.app/blog/ieneko_box_build",
+  "tags": ["一体型", "40%", "ロウスタッガード", "オーソリニア", "MX互換", "RGB LED"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "ortholinear", "MX-compatible", "RGB LED"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/7805571" }],
+  "addedAt": "2026-07-23"
+}
