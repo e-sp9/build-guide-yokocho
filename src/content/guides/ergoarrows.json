@@ -1,0 +1,11 @@
+{
+  "name": "ErgoArrows",
+  "designer": "サリチル酸",
+  "description": "独立した矢印キーを左右に備える65%分割エルゴノミクスキーボード。MX互換スイッチと一部Chocキー、TRRS接続、Pro Micro、任意のLEDや無線化パーツで組み立てる。",
+  "descriptionEn": "A 65% split ergonomic keyboard with dedicated arrow keys on both halves. It combines MX-compatible switches with Choc arrow keys, TRRS interconnect, Pro Micro controllers, and optional LEDs or wireless parts.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/ergo-arrows-build-guide",
+  "tags": ["分割", "65%", "カラムスタッガード", "MX互換", "Choc互換", "RGB LED", "無線"],
+  "tagsEn": ["split", "65%", "column-staggered", "MX-compatible", "Choc-compatible", "RGB LED", "wireless"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/ergoarrows" }],
+  "addedAt": "2026-07-30"
+}

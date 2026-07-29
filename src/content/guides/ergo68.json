@@ -1,0 +1,11 @@
+{
+  "name": "Ergo68",
+  "designer": "遊舎工房",
+  "description": "68キーの分割カラムスタッガードキーボード。実装済み基板、ホットスワップ、フルキーバックライト、TRRS接続、Pro MicroやBLE Micro Pro構成に対応する。",
+  "descriptionEn": "A 68-key split column-staggered keyboard with assembled PCBs, hotswap sockets, full-key backlighting, TRRS interconnect, and Pro Micro or BLE Micro Pro build options.",
+  "url": "https://github.com/yushakobo/build-documents/tree/master/Ergo68",
+  "tags": ["分割", "カラムスタッガード", "MX互換", "ホットスワップ", "RGB LED", "無線"],
+  "tagsEn": ["split", "column-staggered", "MX-compatible", "hotswap", "RGB LED", "wireless"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/ergo68" }],
+  "addedAt": "2026-07-30"
+}

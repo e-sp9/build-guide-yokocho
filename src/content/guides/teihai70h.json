@@ -1,0 +1,11 @@
+{
+  "name": "Teihai70H",
+  "designer": "alg",
+  "description": "日本語配列向けの70キー低背一体型キーボード。Gateron Low Profileスイッチ、RP2040-Zero、ダイオードやスイッチソケットの実装、積層プレート構成で組み立てる。",
+  "descriptionEn": "A 70-key low-profile unibody keyboard aimed at Japanese layouts. The guide builds it with Gateron Low Profile switches, an RP2040-Zero, diode and socket soldering, and stacked plates.",
+  "url": "https://blog.alglab.net/archives/teihai70h-buildguide/",
+  "tags": ["一体型", "ロウスタッガード", "ロープロファイル", "ホットスワップ", "RP2040"],
+  "tagsEn": ["unibody", "row-staggered", "low-profile", "hotswap", "RP2040"],
+  "shopLinks": [],
+  "addedAt": "2026-07-30"
+}
