@@ -1,0 +1,11 @@
+{
+  "name": "Hatsukey70",
+  "designer": "Hatsukey",
+  "description": "70キーのロープロファイル分割キーボード。普段のキーボードに近いロウスタッガード配列と親指キーを備え、Choc V1スイッチ、TRRS接続、Pro Micro構成で組み立てる。",
+  "descriptionEn": "A 70-key low-profile split keyboard with a familiar row-staggered layout and thumb keys. The guide builds it with Choc V1 switches, TRRS interconnect, and Pro Micro controllers.",
+  "url": "https://scrapbox.io/Hatsukey/Hatsukey70%E7%B5%84%E3%81%BF%E7%AB%8B%E3%81%A6%E6%96%B9",
+  "tags": ["分割", "ロウスタッガード", "Choc互換", "ロープロファイル", "スルーホール"],
+  "tagsEn": ["split", "row-staggered", "Choc-compatible", "low-profile", "through-hole"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/9427" }],
+  "addedAt": "2026-07-30"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Guide68",
+  "designer": "サリチル酸",
+  "description": "60%サイズにカーソルキーを組み込んだ68キー分割キーボード。ダイオード実装済み基板、TRRS接続、Pro Micro、2Uスタビライザー、任意のLEDや無線化に対応する。",
+  "descriptionEn": "A 68-key split keyboard that fits cursor keys into a compact 60% layout. The guide covers assembled-diode PCBs, TRRS interconnect, Pro Micro controllers, 2U stabilizers, and optional LEDs or wireless parts.",
+  "url": "https://salicylic-acid3.hatenablog.com/entry/guide68-build-guide",
+  "tags": ["分割", "60%", "ロウスタッガード", "MX互換", "RGB LED", "無線"],
+  "tagsEn": ["split", "60%", "row-staggered", "MX-compatible", "RGB LED", "wireless"],
+  "shopLinks": [],
+  "addedAt": "2026-07-30"
+}
