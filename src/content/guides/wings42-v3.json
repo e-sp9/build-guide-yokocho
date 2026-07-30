@@ -1,0 +1,11 @@
+{
+  "name": "wings42 v3",
+  "designer": "Daily Craft Keyboard",
+  "description": "42キーのロープロファイル分割キーボードキット。Choc v1/v2互換で、SMDダイオード、TRRS、Pro Micro、ファームウェア、プレート組み立てを公式ガイドが案内する。",
+  "descriptionEn": "A 42-key low-profile split keyboard kit with Choc v1/v2 support. The official guide covers SMD diodes, TRRS, Pro Micro, firmware, and plate assembly.",
+  "url": "https://docs.dailycraft.jp/buildguides/wings42v3/buildguide.html",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile"],
+  "shopLinks": [{ "name": "Daily Craft Keyboard", "url": "https://shop.dailycraft.jp/en/products/wings42_v3" }],
+  "addedAt": "2026-07-31"
+}

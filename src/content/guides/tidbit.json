@@ -1,0 +1,11 @@
+{
+  "name": "TIDBIT",
+  "designer": "nullbits",
+  "description": "19キーのスルーホールテンキー兼マクロパッドキット。Pro Micro、ロータリーエンコーダ、OLEDやLED表示、RGBアンダーグローなどを選んで組み立てられる。",
+  "descriptionEn": "A 19-key through-hole numpad and macropad kit. It builds around a Pro Micro with optional rotary encoders, OLED or LED displays, and RGB underglow.",
+  "url": "https://github.com/nullbitsco/docs/blob/main/tidbit/build_guide_en.md",
+  "tags": ["マクロパッド", "テンキー", "MX互換", "スルーホール", "ロータリーエンコーダ", "OLED", "RGB LED"],
+  "tagsEn": ["macropad", "numpad", "MX-compatible", "through-hole", "rotary encoder", "OLED", "RGB LED"],
+  "shopLinks": [{ "name": "nullbits", "url": "https://nullbits.co/tidbit/" }],
+  "addedAt": "2026-07-31"
+}
