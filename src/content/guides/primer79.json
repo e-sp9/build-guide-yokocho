@@ -1,0 +1,11 @@
+{
+  "name": "Primer79",
+  "designer": "遊舎工房",
+  "description": "初心者向けの79キースタンダード配列キーボードキット。スルーホールダイオード、スタビライザー、Pro Micro、任意のロータリーエンコーダや無線化まで公式ガイドが説明する。",
+  "descriptionEn": "A beginner-friendly 79-key standard-layout keyboard kit. The official guide covers through-hole diodes, stabilizers, Pro Micro, optional rotary encoders, and wireless support.",
+  "url": "https://github.com/yushakobo/build-documents/blob/master/Primer79/readme.md",
+  "tags": ["一体型", "75%", "ロウスタッガード", "MX互換", "ロータリーエンコーダ", "無線"],
+  "tagsEn": ["unibody", "75%", "row-staggered", "MX-compatible", "rotary encoder", "wireless"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/products/5384" }],
+  "addedAt": "2026-07-31"
+}
