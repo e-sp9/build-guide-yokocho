@@ -1,0 +1,11 @@
+{
+  "name": "Southpaw75",
+  "designer": "Kelvin Hall / FR4Boards",
+  "description": "左側テンキーを備えた75%一体型キーボード。スルーホールダイオード、Pro Micro互換コントローラ、スタビライザー、FR4プレート/ボトムでANSI/ISO配列を組み立てる。",
+  "descriptionEn": "A 75% unibody keyboard with a left-side numpad. The guide builds ANSI/ISO layouts with through-hole diodes, a Pro Micro-compatible controller, stabilizers, and FR4 plates.",
+  "url": "https://github.com/kelvinhall05/southpaw75",
+  "tags": ["一体型", "75%", "ロウスタッガード", "MX互換", "スルーホール", "テンキー"],
+  "tagsEn": ["unibody", "75%", "row-staggered", "MX-compatible", "through-hole", "numpad"],
+  "shopLinks": [{ "name": "42. Keebs", "url": "https://42keebs.eu/shop/kits/pro-micro-based/southpaw75-ansi-iso-60-numpad-kit/" }],
+  "addedAt": "2026-08-02"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "O50GL",
+  "designer": "サリチル酸 / Puri Puri",
+  "description": "GL516ケース向けの50キー一体型オーソリニアキット。MX互換スイッチ、ダイオード、ソケット、ピンソケットを実装し、BLE Micro Proでの無線化にも対応する。",
+  "descriptionEn": "A 50-key unibody ortholinear kit for the GL516 case. It uses MX-compatible switches, soldered diodes, sockets, pin sockets, and also supports wireless builds with BLE Micro Pro.",
+  "url": "https://zenn.dev/salicylic_acid3/books/gl516_build_guide",
+  "tags": ["一体型", "50%", "オーソリニア", "MX互換", "ホットスワップ", "無線"],
+  "tagsEn": ["unibody", "50%", "ortholinear", "MX-compatible", "hotswap", "wireless"],
+  "shopLinks": [{ "name": "遊舎工房", "url": "https://shop.yushakobo.jp/en/products/5360" }],
+  "addedAt": "2026-08-02"
+}

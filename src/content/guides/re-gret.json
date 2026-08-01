@@ -1,0 +1,11 @@
+{
+  "name": "Re-gret",
+  "designer": "Ryan Schenk",
+  "description": "34キーのChocロープロファイル一体型分割キーボード。XIAO系MCU、Chocホットスワップ、シフトレジスタ、ポゴピン、3Dプリントケースで有線/無線構成を組み立てる。",
+  "descriptionEn": "A 34-key Choc low-profile unibody split keyboard. The guide covers wired and wireless builds with a XIAO MCU, Choc hotswap sockets, shift register, pogo pins, and a 3D-printed case.",
+  "url": "https://docs.keeb.supply/instructions/re-gret/assembly/",
+  "tags": ["一体型", "30%", "カラムスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ", "無線"],
+  "tagsEn": ["unibody", "30%", "column-staggered", "Choc-compatible", "low-profile", "hotswap", "wireless"],
+  "shopLinks": [{ "name": "KeebSupply", "url": "https://keeb.supply/products/re-gret" }],
+  "addedAt": "2026-08-02"
+}

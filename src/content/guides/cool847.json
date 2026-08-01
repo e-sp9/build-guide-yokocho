@@ -1,0 +1,11 @@
+{
+  "name": "cool847",
+  "designer": "telzo2000 / mki0002ozlet",
+  "description": "GH60系ケースに収める47キーの40% Alice風一体型キーボード。FR4 PCB/スイッチプレート、MXソケット、Pro Micro、USBドーターボード、アンダーグローLEDを組み立てる。",
+  "descriptionEn": "A 47-key 40% Alice-style unibody keyboard for GH60-style cases. The guide builds the FR4 PCB and plate with MX sockets, Pro Micro, USB daughterboard, and underglow LEDs.",
+  "url": "https://github.com/telzo2000/cool847/blob/main/buildguide_for_cool847.md",
+  "tags": ["一体型", "40%", "Alice", "ロウスタッガード", "MX互換", "ホットスワップ", "RGB LED"],
+  "tagsEn": ["unibody", "40%", "Alice", "row-staggered", "MX-compatible", "hotswap", "RGB LED"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/3358065" }],
+  "addedAt": "2026-08-02"
+}

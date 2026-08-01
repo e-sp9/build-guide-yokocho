@@ -1,0 +1,11 @@
+{
+  "name": "Palmslave",
+  "designer": "takashicompany",
+  "description": "miniDivideの後継となる38キーの狭ピッチ分割キーボード。Choc v1/v2互換ホットスワップ、Pro MicroまたはBLE Micro Pro、アクリル/3Dプリントケース構成で組み立てる。",
+  "descriptionEn": "A 38-key narrow-pitch split keyboard succeeding miniDivide. It builds with Choc v1/v2 hotswap sockets, Pro Micro or BLE Micro Pro controllers, and acrylic or 3D-printed cases.",
+  "url": "https://github.com/takashicompany/palmslave",
+  "tags": ["分割", "40%", "カラムスタッガード", "Choc互換", "ロープロファイル", "ホットスワップ", "無線"],
+  "tagsEn": ["split", "40%", "column-staggered", "Choc-compatible", "low-profile", "hotswap", "wireless"],
+  "shopLinks": [{ "name": "BOOTH", "url": "https://booth.pm/ja/items/6675825" }],
+  "addedAt": "2026-08-02"
+}
