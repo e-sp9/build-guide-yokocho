@@ -1,0 +1,11 @@
+{
+  "name": "Swoop",
+  "designer": "jimmerricks",
+  "description": "Sweep系の36キー分割カラムスタッガードキーボード。MXホットスワップ、TRRS接続、Pro Micro系MCU、任意のOLEDやRGB LEDを備えた有線構成で組み立てられる。",
+  "descriptionEn": "A 36-key Sweep-family split column-staggered keyboard. The wired build uses MX hotswap sockets, TRRS interconnect, Pro Micro-compatible MCUs, and optional OLEDs or RGB LEDs.",
+  "url": "https://docs.beekeeb.com/swoop-keyboard",
+  "tags": ["分割", "40%", "カラムスタッガード", "MX互換", "ホットスワップ", "OLED", "RGB LED"],
+  "tagsEn": ["split", "40%", "column-staggered", "MX-compatible", "hotswap", "OLED", "RGB LED"],
+  "shopLinks": [{ "name": "beekeeb", "url": "https://shop.beekeeb.com/products/swoop-wired-split-keyboard-diy-kit" }],
+  "addedAt": "2026-08-04"
+}
