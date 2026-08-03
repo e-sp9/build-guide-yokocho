@@ -1,0 +1,10 @@
+{
+  "name": "Yampad v2",
+  "designer": "mattdibi",
+  "description": "18キーのホットスワップ対応テンキー兼マクロパッド。Pro Micro、Kailhソケット、SOD-123ダイオード、任意のRGB LEDとOLEDを備えるオープンソースキット。",
+  "descriptionEn": "An 18-key hotswap numpad and macropad. This open-source kit uses a Pro Micro, Kailh sockets, SOD-123 diodes, and optional RGB LEDs and OLED display.",
+  "url": "https://github.com/mattdibi/yampad/blob/master/README.md",
+  "tags": ["マクロパッド", "テンキー", "MX互換", "ホットスワップ", "OLED", "RGB LED"],
+  "tagsEn": ["macropad", "numpad", "MX-compatible", "hotswap", "OLED", "RGB LED"],
+  "addedAt": "2026-08-04"
+}

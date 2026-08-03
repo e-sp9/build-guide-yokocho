@@ -1,0 +1,10 @@
+{
+  "name": "BB65",
+  "designer": "MechWild",
+  "description": "BlackPillを使う65%ロウスタッガードのDIYキット。ダイオード、Kailhソケット、スタビライザー、ロータリーエンコーダ、プレートとケースを組み立てる。",
+  "descriptionEn": "A 65% row-staggered DIY kit built around a BlackPill controller. The guide covers diodes, Kailh sockets, stabilizers, rotary encoder, plate, and case assembly.",
+  "url": "https://mechwild.com/guides/build-guides/bb65-build-guide/",
+  "tags": ["一体型", "65%", "ロウスタッガード", "MX互換", "ホットスワップ", "ロータリーエンコーダ"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "MX-compatible", "hotswap", "rotary encoder"],
+  "addedAt": "2026-08-04"
+}
