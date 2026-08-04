@@ -1,0 +1,10 @@
+{
+  "name": "Switch42",
+  "designer": "zk-phi",
+  "description": "42キーの分割オーソリニアキーボード。MX互換スイッチ専用で、Pro Micro、TRRS、ダイオード、任意のLED、基板カット、ケース組立まで日本語READMEで案内している。",
+  "descriptionEn": "A 42-key split ortholinear keyboard for MX-compatible switches. The Japanese README covers Pro Micro, TRRS, diodes, optional LEDs, PCB trimming, and case assembly.",
+  "url": "https://github.com/zk-phi/switch42-keyboard/blob/master/Readme.markdown",
+  "tags": ["分割", "40%", "オーソリニア", "MX互換"],
+  "tagsEn": ["split", "40%", "ortholinear", "MX-compatible"],
+  "addedAt": "2026-08-05"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Litl",
+  "designer": "mohoyt / STHLM kb",
+  "description": "40%ロウスタッガードの一体型スルーホールキーボード。Pro Micro互換コントローラ、ダイオード、MXスイッチ、任意のOLEDやロータリーエンコーダを使う軽量なDIYキット。",
+  "descriptionEn": "A 40% row-staggered unibody through-hole keyboard. The guide covers a Pro Micro-compatible controller, diodes, MX switches, and optional OLED or rotary encoders in a compact DIY kit.",
+  "url": "https://github.com/mohoyt/litl/blob/main/build_guide.md",
+  "tags": ["一体型", "40%", "ロウスタッガード", "MX互換", "スルーホール", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "MX-compatible", "through-hole", "rotary encoder", "OLED"],
+  "shopLinks": [
+    {
+      "name": "STHLM kb",
+      "url": "https://sthlmkb.com/shop/litl-keyboard-kit/"
+    }
+  ],
+  "addedAt": "2026-08-05"
+}
