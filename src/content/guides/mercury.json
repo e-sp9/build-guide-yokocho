@@ -1,0 +1,10 @@
+{
+  "name": "Mercury",
+  "designer": "jmding8",
+  "description": "42キーのロウスタッガードキーボード。分割・一体型、無線・有線の構成を選べる設計で、Chocロープロファイルスイッチ、コントローラ、リセットスイッチ、ケース組立を案内する。",
+  "descriptionEn": "A 42-key row-staggered keyboard that can be built split or monoblock, wired or wireless. The guide covers Choc low-profile switches, controllers, reset switches, and case assembly.",
+  "url": "https://github.com/jmding8/MercuryKeyboard/blob/main/text/build_guide.md",
+  "tags": ["分割", "40%", "ロウスタッガード", "Choc互換", "ロープロファイル", "無線"],
+  "tagsEn": ["split", "40%", "row-staggered", "Choc-compatible", "low-profile", "wireless"],
+  "addedAt": "2026-08-05"
+}

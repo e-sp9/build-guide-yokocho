@@ -1,0 +1,16 @@
+{
+  "name": "Lagom",
+  "designer": "mohoyt / STHLM kb",
+  "description": "65%ロウスタッガードの一体型スルーホールキーボード。Pro Micro互換コントローラ、ダイオード、IC、OLED、ロータリーエンコーダ、MXスイッチの実装からケース組立までを扱う。",
+  "descriptionEn": "A 65% row-staggered unibody through-hole keyboard. The guide covers a Pro Micro-compatible controller, diodes, ICs, OLED, rotary encoders, MX switches, and case assembly.",
+  "url": "https://github.com/mohoyt/lagom/blob/main/build_guide.md",
+  "tags": ["一体型", "65%", "ロウスタッガード", "MX互換", "スルーホール", "ロータリーエンコーダ", "OLED"],
+  "tagsEn": ["unibody", "65%", "row-staggered", "MX-compatible", "through-hole", "rotary encoder", "OLED"],
+  "shopLinks": [
+    {
+      "name": "STHLM kb",
+      "url": "https://sthlmkb.com/shop/lagom-keyboard-kit/"
+    }
+  ],
+  "addedAt": "2026-08-05"
+}

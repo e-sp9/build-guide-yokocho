@@ -1,0 +1,10 @@
+{
+  "name": "Treadstone48 Rev.2",
+  "designer": "marksard",
+  "description": "48キーの左右対称ロウスタッガードキーボード。MXホットスワップソケット、Pro Micro、スタビライザー、任意のOLEDやUnderglow LED、アクリルプレートの組立を扱う。",
+  "descriptionEn": "A 48-key symmetric row-staggered keyboard. The guide covers MX hotswap sockets, Pro Micro, stabilizers, optional OLED or underglow LEDs, and acrylic plate assembly.",
+  "url": "https://github.com/marksard/Keyboards/blob/master/treadstone48/documents/treadstone48rev2_buildguide.md",
+  "tags": ["一体型", "40%", "ロウスタッガード", "MX互換", "ホットスワップ", "OLED", "RGB LED"],
+  "tagsEn": ["unibody", "40%", "row-staggered", "MX-compatible", "hotswap", "OLED", "RGB LED"],
+  "addedAt": "2026-08-05"
+}
